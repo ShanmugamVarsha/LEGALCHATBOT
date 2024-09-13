@@ -1,0 +1,13 @@
+*.tar
+*.ph
+*.pth
+*.mp4
+*.gif
+/old/*
+/.vscode/*
+/.ipynb_checckpoints/*
+*.ipynb
+model.py
+test.py
+*.json
+

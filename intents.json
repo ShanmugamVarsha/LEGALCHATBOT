@@ -1,0 +1,1571 @@
+{
+        "intents": [
+                {
+                        "tag": "Hindu Marriage Act, 1955",
+                        "patterns": [
+                                "What are the primary objectives of the 'Hindu Marriage Act, 1955,' and how does it contribute to the regulation of Hindu marriages in India?"
+,"Can you explain the significance of the provisions regarding 'restitution of conjugal rights' under Section 9 of the 'Hindu Marriage Act, 1955,' and its impact on marital disputes?"
+,"Under Section 10 of the 'Hindu Marriage Act, 1955,' what are the grounds and procedures for obtaining a 'judicial separation,' and how does it differ from divorce?"
+,"What are the various grounds for seeking divorce as outlined in Section 13 of the 'Hindu Marriage Act, 1955,' and how does the court adjudicate divorce petitions based on these grounds?"
+,"How does Section 24 of the 'Hindu Marriage Act, 1955,' address the issue of 'maintenance pendente lite and expenses of proceedings,' and what factors does the court consider when determining the amount of maintenance?"
+                        ],
+                        "responses": [
+                                "Section 9: Restitution of conjugal rights--&--Section 10: Judicial separation--&--Section 13: Divorce--&--Section 24: Maintenance pendente lite and expenses of proceedings"
+                               
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Dowry Prohibition Act, 1961",
+                        "patterns": [
+                                "What is the definition of 'dowry' under the Dowry Prohibition Act, 1961, and how does the Act aim to curb the practice of dowry?"
+                               , "What are the penalties specified for giving or taking 'dowry' as per Section 3 of the Dowry Prohibition Act, 1961?"
+                               , "Under Section 4 of the Dowry Prohibition Act, 1961, what constitutes the offense of 'demanding dowry,' and what penalties are prescribed for it?"
+                               , "How does the Dowry Prohibition Act, 1961, address issues of false complaints or misuse of the provisions related to dowry?"
+                               , "What measures are in place within the Dowry Prohibition Act, 1961, to ensure effective enforcement and prevention of the practice of dowry?"
+                        ],
+                        "responses": [
+                                "Section 3: Penalty for giving or taking dowry-----&----Section 4: Penalty for demanding dowry"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Protection of Women from Domestic Violence Act, 2005",
+                        "patterns": [
+
+                                "What is the definition of 'domestic violence' according to the Protection of Women from Domestic Violence Act, 2005, and how does it encompass various forms of abuse?"
+                                ,"Under Section 12 of the Protection of Women from Domestic Violence Act, 2005, what is a 'protection order,' and how does it safeguard victims of domestic violence?"
+                                ,"How does the Protection of Women from Domestic Violence Act, 2005, address the issue of 'monetary reliefs' as outlined in Section 19, and what factors are considered in determining such reliefs?"
+                                ,"What provisions are in place within the Protection of Women from Domestic Violence Act, 2005, to ensure victims' access to 'compensation and damages,' as mentioned in Section 22?"
+                                ,"Can you explain the procedure for obtaining 'residence orders' under Section 18 of the Protection of Women from Domestic Violence Act, 2005, and how it helps in providing a safe living environment for victims of domestic violence?"                              
+                        ],
+                        "responses": [
+                                "Section 3: Definition of domestic violence"
+   ,"Section 12: Protection order"
+   ,"Section 18: Residence orders"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Guardians and Wards Act, 1890",
+                        "patterns": [
+                                "What is the process for appointing a guardian under the Guardians and Wards Act, 1890, and what are the criteria for such appointments?"
+,"Who can apply for the appointment of a guardian under the Guardians and Wards Act, 1890, and what factors does the court consider when deciding on the suitability of a guardian?"
+,"Can the appointment of a guardian be challenged or revoked under the Guardians and Wards Act, 1890, and if so, what are the grounds for such actions?"
+,"What are the duties and responsibilities of a guardian of the person as outlined in the Guardians and Wards Act, 1890, and how does the law ensure the welfare of the ward?"
+,"How does the Guardians and Wards Act, 1890, address the issue of guardianship for minors with undivided interests in joint family property, and what measures are in place to protect their rights?"
+                        ],
+                        "responses": [
+                                "Section 7: Appointment and declaration of guardianship"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Child Marriage Restraint Act, 1929",
+                        "patterns": [
+                                "What are the penalties outlined in the 'Child Marriage Restraint Act, 1929,' for a male adult above twenty-one years of age marrying a child?"
+,"Under the 'Child Marriage Restraint Act, 1929,' what constitutes the offense of solemnizing a child marriage, and what are the consequences for those involved?"
+,"How does the 'Child Marriage Restraint Act, 1929,' define the term 'child' and what age limits does it specify for marriage eligibility?"
+,"Can you explain the legal provisions within the 'Child Marriage Restraint Act, 1929,' for reporting and preventing instances of child marriage, and what role do authorities play in enforcement?"
+,"What measures are in place under the 'Child Marriage Restraint Act, 1929,' to raise awareness about the harmful effects of child marriage and promote compliance with the law?"
+                        ],
+                        "responses": [
+                                "Section 3: Punishment for male adult above twenty-one years of age marrying a child"
+   ," Section 4: Punishment for solemnizing a child marriage"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Special Marriage Act, 1954",
+                        "patterns": [
+
+                                "What are the conditions relating to the solemnization of a marriage under the 'Special Marriage Act, 1954,' and how do they differ from traditional Hindu marriage rituals?"
+                                ,"Under the 'Special Marriage Act, 1954,' what procedures need to be followed for registration, and what documentation is required for a marriage to be legally recognized?"
+                                ,"Can you explain the provisions within the 'Special Marriage Act, 1954,' regarding divorce, and how does the process differ from divorce under other marriage laws?"
+                                ,"What rights and responsibilities do parents have regarding the custody of children born from marriages solemnized under the 'Special Marriage Act, 1954,' as outlined in Section 28?"
+                                ,"How does the 'Special Marriage Act, 1954,' address concerns related to inter-faith or inter-caste marriages, and what measures are in place to ensure the protection of couples' rights and freedoms?" 
+                        ],
+                        "responses": [
+                                "Section 4: Conditions relating to solemnization of special marriage"
+                                ,"Section 15: Divorce"
+                              
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Indian Divorce Act, 1869",
+                        "patterns": [
+                                "What are the grounds specified for the dissolution of marriage under the 'Indian Divorce Act, 1869,' and how do they differ from other marriage laws in India?"
+,"Can you explain the process outlined in the 'Indian Divorce Act, 1869,' for obtaining a decree of divorce, including the filing of petitions and court procedures?"
+,"Under Section 16 of the 'Indian Divorce Act, 1869,' what provisions are made for the payment of permanent alimony and maintenance, and how does the court determine the amount?"
+,"What safeguards are in place within the 'Indian Divorce Act, 1869,' to protect the rights of spouses, particularly regarding issues such as cruelty and desertion?"
+,"How does the 'Indian Divorce Act, 1869,' address the issue of child custody and maintenance during divorce proceedings, and what factors does the court consider in making decisions regarding children's welfare?"
+                        ],
+                        "responses": [
+                                "Section 10: Grounds for dissolution of marriage"
+                                ,"Section 16: Permanent alimony and maintenance"
+                             
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Protection of Children from Sexual Offences Act (POCSO), 2012",
+                        "patterns": [
+                                "What constitutes 'penetrative sexual assault' under the 'Protection of Children from Sexual Offences Act (POCSO), 2012,' and what are the penalties for offenders?"
+                                ,"Under Section 5 of the 'Protection of Children from Sexual Offences Act (POCSO), 2012,' what qualifies as 'aggravated penetrative sexual assault,' and how does it differ from other offenses?"
+                                ,"Can you explain the legal provisions within the 'Protection of Children from Sexual Offences Act (POCSO), 2012,' regarding reporting and recording of offenses, and what role do authorities play in ensuring compliance?"
+                                ,"How does the 'Protection of Children from Sexual Offences Act (POCSO), 2012,' address the issue of child-friendly procedures during investigation and trial, and what measures are in place to protect victims' privacy and dignity?"
+                                ,"What rehabilitation and support services are provided for victims of sexual offenses under the 'Protection of Children from Sexual Offences Act (POCSO), 2012,' and how does the law ensure their access to justice and recovery?"
+                        ],
+                        "responses": [
+                                "Section 3: Penetrative sexual assault"
+                                 ,"Section 5: Aggravated penetrative sexual assault"
+                             
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Adoption Regulations, 2017",
+                        "patterns": [
+                                "What procedures are outlined in the 'Adoption Regulations, 2017,' for the adoption of a child, and what criteria do prospective adoptive parents need to fulfill?"
+                                ,"Under the 'Adoption Regulations, 2017,' what documentation and legal formalities are required to complete the adoption process, and how does the law ensure transparency and legality in adoptions?"
+                                ,"Can you explain the role of authorized adoption agencies and authorities under the 'Adoption Regulations, 2017,' in facilitating and monitoring adoption procedures, and what standards do they adhere to?"
+                                ,"How does the 'Adoption Regulations, 2017,' address the issue of matching children with suitable adoptive families, and what factors are considered in determining the compatibility of parents and children?"
+                                ,"What post-adoption support services are provided under the 'Adoption Regulations, 2017,' to ensure the well-being and adjustment of adopted children and their families, and how does the law promote the lifelong welfare of adopted individuals?"
+                                  
+                        ],
+                        "responses": [
+                                "Regulation 16: Procedures for adoption of a child"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Indian Succession Act, 1925",
+                        "patterns": [
+                                "What are the key provisions outlined in the 'Indian Succession Act, 1925,' regarding the devolution of property and inheritance in India?"
+,"Under the 'Indian Succession Act, 1925,' how does the law determine the distribution of assets among heirs, and what factors are considered in such determinations?"
+,"Can you explain the legal procedures outlined in the 'Indian Succession Act, 1925,' for the execution and probate of wills, and how are these procedures carried out?"
+,"How does 'The Indian Succession Act, 1925,' address issues related to testamentary capacity and the validity of wills, and what measures are in place to prevent fraud and undue influence?"
+,"What legal remedies are available under 'The Indian Succession Act, 1925,' for resolving disputes and challenges regarding inheritance and succession, and how are such matters adjudicated?"
+                        ],
+                        "responses": [
+                                "Section 32: Special provision respecting dwelling house"
+                                ,"Section 33: Special provision respecting property of certain kinds"
+                                
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Muslim Personal Law (Shariat) Application Act, 1937",
+                        "patterns": [
+                                "What specific areas of personal law are governed by the 'Muslim Personal Law (Shariat) Application Act, 1937,' and how does it impact the legal framework for Muslims in India?"
+                                ,"Under the 'Muslim Personal Law (Shariat) Application Act, 1937,' how are matters such as marriage, divorce, inheritance, and family relations regulated, and what role does Islamic jurisprudence play in these areas?"
+                                ,"Can you explain the mechanisms outlined in the 'Muslim Personal Law (Shariat) Application Act, 1937,' for the application and interpretation of Shariat principles in legal proceedings, and how do courts navigate between personal law and civil law?"
+                                ,"How does the 'Muslim Personal Law (Shariat) Application Act, 1937,' address issues of gender equality and women's rights within the context of Islamic law, and what provisions are made to safeguard the rights of women and vulnerable individuals?"
+                                ,"What measures are in place within the 'Muslim Personal Law (Shariat) Application Act, 1937,' to ensure uniformity and consistency in the application of Islamic personal law across different regions and communities in India?" 
+                        ],
+                        "responses": [
+                                "Section 2: Application of Personal Law to Muslims"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Guardianship and Wards Act, 1890",
+                        "patterns": [
+                                "What are the primary objectives of the 'Guardianship and Wards Act, 1890,' and how does it regulate matters concerning guardianship and care of minors in India?"
+                                ,"Under the 'Guardianship and Wards Act, 1890,' what criteria are considered when appointing guardians for minors, and how does the law prioritize the welfare and best interests of the ward?"
+                                ,"Can you explain the legal procedures outlined in the 'Guardianship and Wards Act, 1890,' for the appointment and removal of guardians, and what role do courts play in these processes?"
+                                ,"How does 'The Guardianship and Wards Act, 1890,' address issues related to the management of a minor's property and assets by their guardian, and what safeguards are in place to prevent misuse or mismanagement?"
+                                ,"What mechanisms are in place within 'The Guardianship and Wards Act, 1890,' to address disputes or conflicts regarding guardianship arrangements, and how are such matters adjudicated?"        
+                        ],
+                        "responses": [
+                                "Section 8: Duties of guardian of the person"
+    ,"Section 13: Guardian not to be appointed for minors' undivided interests in joint family property"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+                        "patterns": [
+                                "What are the key provisions outlined in the 'Maintenance and Welfare of Parents and Senior Citizens Act, 2007,' regarding the legal obligations of children towards their parents and senior citizens?"
+                                ,"Under the 'Maintenance and Welfare of Parents and Senior Citizens Act, 2007,' how does the law define 'maintenance' and what measures are in place to ensure financial support and care for elderly parents and senior citizens?"
+                                ,"Can you explain the procedures outlined in the 'Maintenance and Welfare of Parents and Senior Citizens Act, 2007,' for filing maintenance petitions and seeking relief, and what remedies are available for non-compliance?"
+                                ,"How does the 'Maintenance and Welfare of Parents and Senior Citizens Act, 2007,' address issues related to the protection and welfare of senior citizens, including access to healthcare, shelter, and social security?"
+                                ,"What provisions are made within 'The Maintenance and Welfare of Parents and Senior Citizens Act, 2007,' for the establishment and functioning of old age homes and other welfare institutions, and how are they regulated?" 
+                        ],
+                        "responses": [
+                                "Section 4: Maintenance of parents and senior citizens"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Hindu Minority and Guardianship Act, 1956",
+                        "patterns": [
+                                "What are the main objectives of the 'Hindu Minority and Guardianship Act, 1956,' and how does it impact the legal rights and protections of Hindu minors?"
+,"Under the 'Hindu Minority and Guardianship Act, 1956,' what criteria are considered when appointing guardians for Hindu minors, and how does the law prioritize the welfare of the child?"
+,"Can you explain the legal procedures outlined in the 'Hindu Minority and Guardianship Act, 1956,' for the appointment and removal of guardians, and what role do courts play in these processes?"
+,"How does 'The Hindu Minority and Guardianship Act, 1956,' address issues related to the management of a minor's property and assets by their guardian, and what safeguards are in place to prevent misuse or mismanagement?"
+,"What mechanisms are in place within 'The Hindu Minority and Guardianship Act, 1956,' to address disputes or conflicts regarding guardianship arrangements, and how are such matters adjudicated?"
+                        ],
+                        "responses": [
+                                "Section 6: Guardianship of a Hindu minor"
+                                ,"Section 8: Powers of natural guardian"
+                            
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Indian Penal Code, 1860",
+                        "patterns": [
+                                "What are the key offenses outlined in the 'Indian Penal Code, 1860,' and how does it classify and define criminal acts?"
+,"Under the 'Indian Penal Code, 1860,' what penalties are prescribed for offenses such as murder, theft, and assault, and how do they vary based on the severity of the crime?"
+,"Can you explain the legal procedures outlined in the 'Indian Penal Code, 1860,' for investigating and prosecuting criminal offenses, and what role do law enforcement agencies and courts play in this process?"
+,"How does 'The Indian Penal Code, 1860,' address issues related to criminal liability, including defenses such as insanity, mistake of fact, and self-defense?"
+,"What measures are in place within 'The Indian Penal Code, 1860,' to ensure the protection of individual rights and liberties, and how does the law balance the interests of society with those of the accused?"
+                        ],
+                        "responses": [
+                                "Section 498A: Cruelty by husband or relative of husband"
+    ,"Section 304B: Dowry death"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Hindu Adoptions and Maintenance Act, 1956",
+                        "patterns": [
+                                "What are the key provisions outlined in 'The Hindu Adoptions and Maintenance Act, 1956,' regarding adoptions and maintenance obligations within Hindu families?"
+,"Under 'The Hindu Adoptions and Maintenance Act, 1956,' what are the legal procedures for adopting a child, and what criteria must be met for a valid adoption?"
+,"Can you explain the rights and responsibilities of adoptive parents and adopted children as stipulated in 'The Hindu Adoptions and Maintenance Act, 1956,' and how do they differ from natural parent-child relationships?"
+,"How does 'The Hindu Adoptions and Maintenance Act, 1956,' address issues related to maintenance of dependents, including provisions for financial support and welfare?"
+,"What measures are in place within 'The Hindu Adoptions and Maintenance Act, 1956,' to resolve disputes regarding adoptions, maintenance, and inheritance rights, and how are such matters adjudicated?"
+                        ],
+                        "responses": [
+                                "Section 18: Maintenance of dependents"
+                                ,"Section 23: Persons capable of giving in adoption"
+                            
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Muslim Women (Protection of Rights on Divorce) Act, 1986",
+                        "patterns": [
+                                "What are the primary objectives of 'The Muslim Women (Protection of Rights on Divorce) Act, 1986,' and how does it aim to safeguard the rights and interests of Muslim women?"
+,"Under 'The Muslim Women (Protection of Rights on Divorce) Act, 1986,' what provisions are made for the payment of 'mahr' or dower to Muslim women upon divorce, and how is it enforced?"
+,"Can you explain the rights granted to Muslim women under Section 5 of 'The Muslim Women (Protection of Rights on Divorce) Act, 1986,' regarding fair and reasonable provision and maintenance, and how are these rights protected?"
+,"How does 'The Muslim Women (Protection of Rights on Divorce) Act, 1986,' address issues related to the enforceability of decrees and orders, and what legal remedies are available to aggrieved parties?"
+,"What measures are in place within 'The Muslim Women (Protection of Rights on Divorce) Act, 1986,' to ensure compliance with its provisions and protect the rights of Muslim women during divorce proceedings?"
+                        ],
+                        "responses": [
+                                "Section 4: Mahr or dower to be paid to Muslim woman"
+                                ,"Section 5: Rights to fair and reasonable provision and maintenance"
+                                  
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Hindu Succession Act, 1956",
+                        "patterns": [
+                                "What are the key provisions of inheritance and succession outlined in the 'The Hindu Succession Act, 1956,' and how do they differ for male and female heirs?"
+,"Under the 'The Hindu Succession Act, 1956,' what is the concept of 'coparcenary property' and how does it affect the devolution of assets within a Hindu joint family?"
+,"Can you explain the significance of Section 14 of 'The Hindu Succession Act, 1956,' regarding the absolute property rights of female Hindus, and how does it empower women in matters of inheritance?"
+,"How does 'The Hindu Succession Act, 1956,' address the issue of succession among Class II heirs, and what factors are considered in determining the distribution of assets?"
+,"What legal mechanisms are in place within 'The Hindu Succession Act, 1956,' to resolve disputes related to inheritance and succession, and how does the law ensure fair distribution of assets among heirs?"
+                        ],
+                        "responses": [
+                                "Section 6: Devolution of interest in coparcenary property"
+    ,"Section 14: Property of a female Hindu to be her absolute property"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Special Marriage Act, 1954",
+                        "patterns": [
+                                "What are the eligibility criteria for couples seeking marriage under 'The Special Marriage Act, 1954,' and how does it accommodate inter-faith or inter-caste marriages?"
+                                ,"Under Section 17 of 'The Special Marriage Act, 1954,' what constitutes a 'void marriage,' and what legal implications does it carry for the parties involved?"
+                                ,"Can you explain the procedures outlined in 'The Special Marriage Act, 1954,' for the registration of marriages, and what documentation is required for such registration?"
+                                ,"How does 'The Special Marriage Act, 1954,' address issues related to divorce, and what provisions are made for the dissolution of marriages solemnized under this Act?"
+                                ,"What measures are in place within 'The Special Marriage Act, 1954,' to ensure the custody and welfare of children born from marriages registered under this Act, and how are parental rights determined?"                         
+                        ],
+                        "responses": [
+                                "Section 17: Procedure for registration"
+    ,"Section 28: Custody of children of void and voidable marriages"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Protection of Women from Domestic Violence Act, 2005",
+                        "patterns": [
+                                "What constitutes 'domestic violence' under 'The Protection of Women from Domestic Violence Act, 2005,' and how does the Act provide protection to victims?"
+,"Under Section 12 of 'The Protection of Women from Domestic Violence Act, 2005,' what is a 'protection order,' and how does it safeguard victims of domestic violence?"
+,"How does Section 19 of 'The Protection of Women from Domestic Violence Act, 2005,' address 'monetary reliefs,' and what factors are considered in determining the amount?"
+,"What provisions are made in Section 22 of 'The Protection of Women from Domestic Violence Act, 2005,' for 'compensation and damages' to victims, and how are they enforced?"
+,"Can you explain the procedures for obtaining 'residence orders' under 'The Protection of Women from Domestic Violence Act, 2005,' and how do they ensure the safety and security of victims within their homes?"
+                        ],
+                        "responses": [
+                                "Section 19: Monetary reliefs"
+                                ,"Section 22: Compensation and damages"
+                            
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Dowry Prohibition Act, 1961",
+                        "patterns": [
+                                "What constitutes 'dowry' under 'The Dowry Prohibition Act, 1961,' and what penalties are prescribed for giving or taking dowry?"
+,"Under Section 4 of 'The Dowry Prohibition Act, 1961,' what constitutes the offense of 'demanding dowry,' and what are the consequences for those involved?"
+,"How does 'The Dowry Prohibition Act, 1961,' address issues of false complaints or misuse of provisions related to dowry, and what safeguards are in place?"
+,"Can you explain the provisions within 'The Dowry Prohibition Act, 1961,' for reporting and preventing instances of dowry-related offenses, and what role do authorities play in enforcement?"
+,"What measures are in place within 'The Dowry Prohibition Act, 1961,' to raise awareness about the harmful effects of dowry and promote compliance with the law?"
+                        ],
+                        "responses": [
+                                "Section 7: Cognizance of offences"
+                                ,"Section 8: Offences to be cognizable and non-bailable"
+                            
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Guardians and Wards Act, 1890",
+                        "patterns": [
+                                "What are the procedures for appointing a guardian under 'The Guardians and Wards Act, 1890,' and what factors does the court consider in making such appointments?"
+                                ,"Under 'The Guardians and Wards Act, 1890,' what documentation and legal formalities are required for the appointment of a guardian, and how does the law ensure transparency in the process?"
+                                ,"Can you explain the duties and responsibilities of a guardian of the person as outlined in 'The Guardians and Wards Act, 1890,' and how does the law ensure the welfare of the ward?"
+                                ,"How does 'The Guardians and Wards Act, 1890,' address the issue of guardianship for minors with undivided interests in joint family property, and what measures are in place to protect their rights?"
+                                ,"What legal remedies are available under 'The Guardians and Wards Act, 1890,' for challenging or revoking the appointment of a guardian, and what grounds are considered valid for such actions?"
+                        ],
+                        "responses": [
+                                "Section 10: Power to make interlocutory orders"
+    ,"Section 12: Appointment of guardian for minor by the court"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Muslim Personal Law (Shariat) Application Act, 1937",
+                        "patterns": [
+                                "What is the scope of the 'Muslim Personal Law (Shariat) Application Act, 1937,' and how does it apply to matters concerning personal law among Muslims in India?"
+                                ,"Under Section 2 of the 'Muslim Personal Law (Shariat) Application Act, 1937,' what is the extent of the application of personal law to Muslims, and how does it interact with other legal systems?"
+                                ,"Can you explain the provisions within the 'Muslim Personal Law (Shariat) Application Act, 1937,' regarding the power to make declarations, and what role do authorities play in this process?"
+                                ,"How does the 'Muslim Personal Law (Shariat) Application Act, 1937,' address conflicts between personal law and other statutory laws, and what mechanisms are in place for resolving such conflicts?"
+                                ,"What safeguards are in place within the 'Muslim Personal Law (Shariat) Application Act, 1937,' to protect the rights of individuals, particularly regarding matters of marriage, divorce, and inheritance?" 
+                        ],
+                        "responses": [
+                                "Section 4: Savings"
+    ,"Section 5: Power to make a declaration"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Indian Christian Marriage Act, 1872",
+                        "patterns": [
+                                "What are the key provisions outlined in the 'Indian Christian Marriage Act, 1872,' regarding the solemnization and registration of marriages among Christians in India?"
+                                ,"Under the 'Indian Christian Marriage Act, 1872,' what legal formalities and documentation are required for the validity of Christian marriages, and how does the law ensure compliance?"
+                                ,"Can you explain the role of authorized authorities and churches in solemnizing marriages under the 'Indian Christian Marriage Act, 1872,' and what standards do they adhere to?"
+                                ,"How does the 'Indian Christian Marriage Act, 1872,' address issues related to divorce and separation among Christian couples, and what procedures need to be followed for such matters?"
+                                ,"What offenses are specified in the 'Indian Christian Marriage Act, 1872,' and what penalties are prescribed for violations of the provisions outlined in the Act?" 
+                        ],
+                        "responses": [
+                                "Section 21: Divorce"
+    ,"Section 24: Offences by officers of churches"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Hindu Minority and Guardianship Act, 1956",
+                        "patterns": [
+                                "What are the key provisions of the 'Hindu Minority and Guardianship Act, 1956,' regarding the appointment and declaration of guardians for Hindu minors?"
+,"Under the 'Hindu Minority and Guardianship Act, 1956,' what factors does the court consider when appointing guardians, and how does the law prioritize the welfare of the minor?"
+,"Can you explain the powers and duties of natural guardians as outlined in the 'Hindu Minority and Guardianship Act, 1956,' and how do they differ from appointed guardians?"
+,"How does the 'Hindu Minority and Guardianship Act, 1956,' address situations where guardianship is disputed or contested, and what legal remedies are available for resolving such disputes?"
+,"What measures are in place within the 'Hindu Minority and Guardianship Act, 1956,' to protect the rights and interests of Hindu minors, particularly in matters of inheritance and property management?"
+                        ],
+                        "responses": [
+                                "Section 13: Welfare of minor to be paramount consideration"
+    ,"Section 15: Appointment and declaration of guardians"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Special Marriage Act, 1954",
+                        "patterns": [
+                                "What are the conditions and requirements for marriage registration under 'The Special Marriage Act, 1954,' and how does it differ from traditional religious ceremonies?"
+                                ,"Under the 'Special Marriage Act, 1954,' what provisions are made for couples of different religions or castes seeking to marry, and how are inter-faith marriages facilitated?"
+                                ,"Can you explain the legal procedures for obtaining a marriage license under 'The Special Marriage Act, 1954,' and what documentation is necessary for the registration process?"
+                                ,"How does 'The Special Marriage Act, 1954,' address issues related to divorce and separation among couples who have married under its provisions, and what grounds are recognized for divorce?"
+                                ,"What measures are in place within 'The Special Marriage Act, 1954,' to ensure the legal rights and protections of spouses and their children, particularly regarding inheritance and property rights?" 
+                        ],
+                        "responses": [
+                                "Section 13: Void marriages"
+    ,"Section 19: Procedure for registration"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Muslim Personal Law (Shariat) Application Act, 1937",
+                        "patterns": [
+                                "What are the specific provisions of the 'Muslim Personal Law (Shariat) Application Act, 1937,' regarding the application of Islamic personal laws in India?"
+                                ,"Under the 'Muslim Personal Law (Shariat) Application Act, 1937,' how does the personal law apply to matters such as marriage, divorce, and inheritance among Muslims?"
+                                ,"Can you explain the process outlined in the 'Muslim Personal Law (Shariat) Application Act, 1937,' for the application of personal law in legal proceedings, and what role do courts play in interpreting and enforcing these laws?"
+                                ,"How does the 'Muslim Personal Law (Shariat) Application Act, 1937,' address issues of gender equality and rights, particularly regarding marriage, divorce, and property ownership?"
+                                ,"What mechanisms are in place within the 'Muslim Personal Law (Shariat) Application Act, 1937,' to ensure consistency and coherence with other statutory laws, and how are conflicts between personal law and civil law resolved?"
+                        ],
+                        "responses": [
+                                "Section 3: Saving of certain marriages"        
+                                
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Prohibition of Child Marriage Act, 2006",
+                        "patterns": [
+                                "What are the key provisions outlined in 'The Prohibition of Child Marriage Act, 2006,' to prevent and prohibit the practice of child marriage in India?"
+,"Under the 'Prohibition of Child Marriage Act, 2006,' what constitutes a 'child marriage,' and what are the legal consequences for those involved in solemnizing or participating in such marriages?"
+,"Can you explain the role of authorities and institutions in enforcing 'The Prohibition of Child Marriage Act, 2006,' and what measures are in place to prevent instances of child marriage and protect potential victims?"
+,"How does 'The Prohibition of Child Marriage Act, 2006,' address issues related to consent and coercion in child marriages, and what legal remedies are available for victims of such practices?"
+,"What awareness and outreach programs are implemented under 'The Prohibition of Child Marriage Act, 2006,' to educate communities about the harmful effects of child marriage and promote compliance with the law?"
+                        ],
+                        "responses": [
+                                "Section 10: Child marriages to be voidable at the option of contracting party"
+    ,"Section 12: Punishment of male adult above twenty-one years of age marrying a child"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Code of Criminal Procedure, 1973",
+                        "patterns": [
+                                "What are the key procedures outlined in 'The Code of Criminal Procedure, 1973,' for the investigation and prosecution of criminal offenses in India?"
+                                ,"Under 'The Code of Criminal Procedure, 1973,' what legal safeguards are in place to protect the rights of the accused during arrest, detention, and trial proceedings?"
+                                ,"Can you explain the provisions within 'The Code of Criminal Procedure, 1973,' regarding bail and anticipatory bail, and how are these provisions applied in practice?"
+                                ,"How does 'The Code of Criminal Procedure, 1973,' address issues of jurisdiction and venue in criminal cases, particularly regarding trial proceedings and appeals?"
+                                ,"What mechanisms are in place within 'The Code of Criminal Procedure, 1973,' for the execution of criminal judgments, including processes for imprisonment, fines, and asset forfeiture?" 
+                        ],
+                        "responses": [
+                                "Section 125: Order for maintenance of wives, children, and parents"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Indian Penal Code, 1860",
+                        "patterns": [
+                                "What constitutes 'rape' under Section 375 of the 'Indian Penal Code, 1860,' and what are the penalties prescribed for this offense?"
+                                ,"Under Section 498A of the 'Indian Penal Code, 1860,' what constitutes 'cruelty by husband or relative of husband,' and how is it defined within the context of marital relationships?"
+                                ,"Can you explain the legal provisions outlined in Section 304B of the 'Indian Penal Code, 1860,' regarding 'dowry death,' and what elements must be proven to establish this offense?"
+                                ,"How does 'The Indian Penal Code, 1860,' address issues related to criminal liability, including defenses such as insanity, mistake of fact, and self-defense?"
+                                ,"What measures are in place within 'The Indian Penal Code, 1860,' to ensure the protection of individual rights and liberties, and how does the law balance the interests of society with those of the accused?"  
+                               
+                        ],
+                        "responses": [
+                                "Section 302: Punishment for murder"
+                                ,"Situations: Intentional killing of another person with malice aforethought."
+                              ,"Section 304: Punishment for culpable homicide not amounting to murder"
+                                ,"Situations: Causing death by negligence or without the intention to kill."
+                              ,"Section 307: Attempt to murder"
+                             
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "Code of Criminal Procedure, 1973",
+                        "patterns": [
+                                "What procedures are outlined in 'The Code of Criminal Procedure, 1973,' for the arrest and detention of individuals suspected of committing criminal offenses?"
+,"Under 'The Code of Criminal Procedure, 1973,' what legal safeguards are in place to protect the rights of the accused during interrogation and trial proceedings?"
+,"Can you explain the provisions within 'The Code of Criminal Procedure, 1973,' regarding bail and anticipatory bail, and how are these provisions applied in practice?"
+,"How does 'The Code of Criminal Procedure, 1973,' address issues related to jurisdiction and venue in criminal cases, particularly regarding trial proceedings and appeals?"
+,"What mechanisms are in place within 'The Code of Criminal Procedure, 1973,' for the execution of criminal judgments, including processes for imprisonment, fines, and asset forfeiture?"
+                        ],
+                        "responses": [
+                                "Section 154: Information in cognizable cases"
+                                ,"Situations: Procedure for lodging an FIR in cognizable offenses."
+                              ,"Section 161: Examination of witnesses by police"
+                                ,"Situations: Police examination of witnesses during the investigation."
+                              ,"Section 173: Report of police officer on completion of investigation"
+                                ,"Situations: Submission of the police report to the Magistrate after completing the investigation."
+                              ,"Section 309: Power to postpone or adjourn proceedings"
+                                ,"Situations: Authority of the court to adjourn or postpone the trial"
+                              ,"Section 313: Power to examine the accused"
+                                ,"Situations: Examination of the accused by the court during the trial."
+                           
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Juvenile Justice (Care and Protection of Children) Act, 2015",
+                        "patterns": [
+                                "What are the key objectives outlined in 'The Juvenile Justice (Care and Protection of Children) Act, 2015,' and how does it aim to safeguard the rights and welfare of children in conflict with the law?"
+                                ,"Under 'The Juvenile Justice (Care and Protection of Children) Act, 2015,' what procedures are followed for the rehabilitation and reintegration of juvenile offenders into society, and what measures are in place to prevent recidivism?"
+                                ,"Can you explain the provisions within 'The Juvenile Justice (Care and Protection of Children) Act, 2015,' for the establishment and functioning of children's homes, special homes, and observation homes, and how are they regulated?"
+                                ,"How does 'The Juvenile Justice (Care and Protection of Children) Act, 2015,' address issues related to the protection of children from abuse, exploitation, and neglect, and what mechanisms are in place for reporting and addressing such cases?"
+                                ,"What legal safeguards are provided to children in conflict with the law under 'The Juvenile Justice (Care and Protection of Children) Act, 2015,' and how does the law ensure their right to fair treatment and due process?"
+                        ],
+                        "responses": [
+                                "Section 12: Bail to be granted to a juvenile in conflict with law"
+                                ,"Situations: Bail provisions for juveniles accused of crimes."
+                           
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Narcotic Drugs and Psychotropic Substances Act, 1985",
+                        "patterns": [
+                                "What substances are classified as 'narcotic drugs' and 'psychotropic substances' under the 'Narcotic Drugs and Psychotropic Substances Act, 1985,' and how are they regulated?"
+,"Under the 'Narcotic Drugs and Psychotropic Substances Act, 1985,' what are the penalties for the possession, manufacture, and trafficking of narcotic drugs and psychotropic substances?"
+,"Can you explain the legal procedures outlined in the 'Narcotic Drugs and Psychotropic Substances Act, 1985,' for the investigation and prosecution of offenses related to illicit drugs, and what role do law enforcement agencies play?"
+,"How does the 'Narcotic Drugs and Psychotropic Substances Act, 1985,' address issues related to rehabilitation and treatment of drug addicts, and what measures are in place for their social reintegration?"
+,"What mechanisms are in place within the 'Narcotic Drugs and Psychotropic Substances Act, 1985,' to prevent the diversion of precursor chemicals and the illicit manufacture of drugs, and how are these measures enforced?"
+                        ],
+                        "responses": [
+                                "Section 20: Punishment for contravention in relation to cannabis plant and cannabis"
+     ,"Situations: Punishment for the possession or consumption of cannabis"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "The Protection of Children from Sexual Offences Act, 2012",
+                        "patterns": [
+                                "What constitutes 'penetrative sexual assault' under the 'Protection of Children from Sexual Offences Act, 2012,' and what are the legal consequences for offenders?"
+,"Under the 'Protection of Children from Sexual Offences Act, 2012,' what constitutes 'aggravated penetrative sexual assault,' and how does the law enhance penalties for such offenses?"
+,"Can you explain the procedures outlined in the 'Protection of Children from Sexual Offences Act, 2012,' for reporting, investigation, and trial of sexual offenses against children, and what measures are in place to protect the privacy and dignity of the child victim?"
+,"How does the 'Protection of Children from Sexual Offences Act, 2012,' address issues related to child-friendly procedures during court proceedings, including provisions for the testimony of child witnesses?"
+,"What mechanisms are in place within the 'Protection of Children from Sexual Offences Act, 2012,' to ensure the rehabilitation and support of child victims of sexual abuse, and how are these measures implemented?"
+                        ],
+                        "responses": [
+                                "Section 3: Penetrative sexual assault"
+     ,"Situations: Sexual assault involving penetration on a chil"
+   ,"Section 5: Aggravated penetrative sexual assault"
+     ,"Situations: Sexual assault resulting in severe injury or endangering the life of a child"
+
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag":"The Prevention of Corruption Act, 1988**",
+                        "patterns":[
+                                "What constitutes an 'offense of corruption' under the 'Prevention of Corruption Act, 1988,' and what penalties are imposed for individuals found guilty of such offenses?"
+                                ,"Under the 'Prevention of Corruption Act, 1988,' what measures are in place to prevent bribery, abuse of power, and other corrupt practices among public servants and private individuals?"
+                                ,"Can you explain the legal procedures outlined in the 'Prevention of Corruption Act, 1988,' for the investigation and prosecution of corruption cases, and what role do anti-corruption agencies play in enforcing these laws?"
+                                ,"How does the 'Prevention of Corruption Act, 1988,' address issues related to the recovery of assets obtained through corrupt means, including provisions for confiscation and forfeiture of ill-gotten gains?"
+                                ,"What mechanisms are in place within the 'Prevention of Corruption Act, 1988,' to promote transparency, accountability, and integrity in public and private sectors, and how are these measures enforced?" 
+                                
+                        ],
+                        "responses": [
+                                "Section 7: Public servant taking gratification other than legal remuneration in respect of an official act"
+                                ,"Situations: Corruption involving public officials accepting bribes or gratification."
+                                ,"Section 13: Criminal misconduct by a public servant"
+                                  ,"Situations: Misuse of official position for personal gains by a public servant"
+                             
+
+                        ]
+
+                },
+                {
+                        "tag":"The Protection of Women from Domestic Violence Act, 2005",
+                        "patterns":[
+                                "What constitutes 'domestic violence' under the 'Protection of Women from Domestic Violence Act, 2005,' and what forms of abuse are covered by this legislation?"
+,"Under the 'Protection of Women from Domestic Violence Act, 2005,' what legal remedies are available to victims of domestic violence, and how do they seek protection and redressal?"
+,"Can you explain the procedures outlined in the 'Protection of Women from Domestic Violence Act, 2005,' for obtaining protection orders, residence orders, and other forms of relief, and what role do courts play in enforcing these orders?"
+,"How does the 'Protection of Women from Domestic Violence Act, 2005,' address issues related to the economic empowerment and financial independence of survivors of domestic violence, including provisions for maintenance and compensation?"
+,"What mechanisms are in place within the 'Protection of Women from Domestic Violence Act, 2005,' to promote awareness, prevention, and intervention in cases of domestic violence, and how are these measures implemented at the grassroots level?"
+                        ],
+                        "responses":[
+                                "Section 3: Definition of domestic violence"
+                                ,"Situations: Various forms of violence against women within domestic relationships."
+                              ,"Section 12: Protection order"
+                                ,"Situations: Court orders protecting women from domestic violence."
+                              ,"Section 18: Residence orders"
+                               ,"Situations: Orders related to the residence of the aggrieved person in cases of domestic violence"
+                        ]
+                },
+                {
+                        "tag":"The Criminal Law (Amendment) Act, 2013",
+                        "patterns":[
+                                "What significant amendments were introduced by the 'Criminal Law (Amendment) Act, 2013,' and how did they impact the legal framework for addressing crimes against women?"
+,"Under the 'Criminal Law (Amendment) Act, 2013,' what specific provisions were added or modified to enhance the punishment for sexual offenses such as rape, acid attacks, and stalking?"
+,"Can you explain the procedural changes brought about by the 'Criminal Law (Amendment) Act, 2013,' regarding the investigation and trial of sexual offenses, and how did these changes improve the delivery of justice to survivors?"
+,"How does the 'Criminal Law (Amendment) Act, 2013,' address issues related to the protection of children from sexual abuse and exploitation, including provisions for stricter penalties and faster trial procedures?"
+,"What mechanisms were introduced under the 'Criminal Law (Amendment) Act, 2013,' to promote gender sensitivity and accountability within law enforcement agencies and the judiciary, and how were these measures implemented?"                                
+                        ],
+                        "responses":[
+                               "Section 376A: Punishment for causing death or resulting in a persistent vegetative state of the victim"
+     ,"Situations: Punishment for causing severe harm or death during rape."
+
+                        ]
+                },
+                {
+                        "tag": "The Protection of Human Rights Act, 1993",
+                        "patterns":[
+                                "What are the key objectives outlined in the 'Protection of Human Rights Act, 1993,' and how does it aim to safeguard the fundamental rights of individuals in India?"
+,"Under the 'Protection of Human Rights Act, 1993,' what mechanisms are in place for the investigation and redressal of human rights violations, and what role do the National Human Rights Commission and State Human Rights Commissions play in this process?"
+,"Can you explain the legal procedures outlined in the 'Protection of Human Rights Act, 1993,' for filing complaints, conducting inquiries, and issuing recommendations, and how are these procedures enforced?"
+,"How does the 'Protection of Human Rights Act, 1993,' address issues related to the protection of vulnerable groups, including women, children, minorities, and marginalized communities, and what measures are in place to ensure their rights are upheld?"
+,"What mechanisms are in place within the 'Protection of Human Rights Act, 1993,' to promote awareness, education, and advocacy on human rights issues, and how are these efforts coordinated at the national and state levels?"
+                        ],
+                        "responses":[
+                                 "Section 12: Powers relating to inquiries"
+                                ,"Situations: Powers of the Human Rights Commission to conduct inquiries into human rights violations."
+                              
+                        ]
+                },
+                {
+                        "tag": "The Unlawful Activities (Prevention) Act, 1967",
+                        "patterns":[
+                                "What constitutes an 'unlawful activity' under the 'Unlawful Activities (Prevention) Act, 1967,' and what measures are in place to prevent and combat such activities?"
+                                ,"Under the 'Unlawful Activities (Prevention) Act, 1967,' what legal provisions are in place for the investigation, prosecution, and punishment of individuals or groups engaged in unlawful activities?"
+                                ,"Can you explain the procedures outlined in the 'Unlawful Activities (Prevention) Act, 1967,' for the declaration of an organization as a 'terrorist organization,' and what implications does this declaration have?"
+                                ,"How does the 'Unlawful Activities (Prevention) Act, 1967,' address issues related to funding, support, and promotion of unlawful activities, including provisions for asset forfeiture and financial sanctions?"
+                                ,"What mechanisms are in place within the 'Unlawful Activities (Prevention) Act, 1967,' to protect human rights and civil liberties while countering unlawful activities, and how are these safeguards enforced?"
+                        ],
+                        "responses":[
+                         "Section 13: Punishment for unlawful activities"
+                        ,"Situations: Punishment for engaging in unlawful activities"
+                      
+                        ]
+                },                         
+                {
+                        "tag": "The Factories Act, 1948",
+                        "patterns":[
+                                "What are the key objectives outlined in 'The Factories Act, 1948,' and how does it regulate the working conditions and safety standards within industrial establishments?"
+                                ,"Under 'The Factories Act, 1948,' what specific provisions are in place to ensure the health, welfare, and hygiene of workers employed in factories, and how are these provisions enforced?"
+                                ,"Can you explain the legal procedures outlined in 'The Factories Act, 1948,' for obtaining licenses, inspections, and approvals for the establishment and operation of factories, and what role do regulatory authorities play?"
+                                ,"How does 'The Factories Act, 1948,' address issues related to employment of women and young persons, including provisions for working hours, rest intervals, and maternity benefits?"
+                                ,"What mechanisms are in place within 'The Factories Act, 1948,' to promote occupational safety and prevent accidents, including provisions for emergency preparedness, accident reporting, and compensation for injured workers?"                                
+                        ],
+                        "responses":[
+         "- Section 21: Health and safety provisions in factories."
+         ,"Section 22: Provisions regarding employment of young persons on dangerous machines."
+          ,"Section 23: Prohibition of employment of women and children near cotton openers."
+         ,"Section 25: Power to make rules."
+      
+                        ]
+                },      
+                {
+                        "tag": "The Minimum Wages Act, 1948",
+                        "patterns":[
+                                "What is the purpose of the 'Minimum Wages Act, 1948,' and how does it ensure fair remuneration for workers across various industries?"
+,"Under the 'Minimum Wages Act, 1948,' what criteria are used to determine minimum wage rates, and how often are these rates revised to keep pace with inflation and cost of living?"
+,"Can you explain the legal obligations imposed on employers by the 'Minimum Wages Act, 1948,' including requirements for wage payments, deductions, and maintenance of records?"
+,"How does the 'Minimum Wages Act, 1948,' address issues related to the enforcement of minimum wage laws, including mechanisms for complaints, inspections, and penalties for non-compliance?"
+,"What measures are in place within the 'Minimum Wages Act, 1948,' to protect the rights of vulnerable workers, such as contract laborers, home-based workers, and migrant workers, and how are these measures implemented?"
+                        ],
+                        "responses":[
+         "Section 3: Fixing of minimum rates of wages."
+         ,"Section 4: Minimum rate of wages."
+         ,"Section 5: Payment of minimum rates of wages."
+                        ]
+                },
+                {
+                        "tag": "The Payment of Wages Act, 1936",
+                        "patterns":[
+                                "What are the key provisions of 'The Payment of Wages Act, 1936, and how does it regulate the payment of wages to workers in various industries?"
+                                ,"Under 'The Payment of Wages Act, 1936,' what obligations do employers have regarding the timely payment of wages, deductions, and permissible modes of wage disbursal?"
+                                ,"Can you explain the legal procedures outlined in 'The Payment of Wages Act, 1936,' for filing complaints, conducting inquiries, and seeking redressal in cases of wage disputes or non-payment?"
+                                ,"How does 'The Payment of Wages Act, 1936,' address issues related to the protection of workers' rights, including provisions for minimum wages, overtime compensation, and equal pay for equal work?"
+                                ,"What mechanisms are in place within 'The Payment of Wages Act, 1936,' to ensure transparency, accountability, and compliance with wage-related regulations, and how are these mechanisms enforced by regulatory authorities?"
+                        ],
+                        "responses":[
+                                "Section 4: Responsibility for payment of wages."
+                                 ,"Section 5: Fixation of wage-periods."
+                                ,"Section 6: Time of payment of wages."
+                             
+                        ]
+                },
+                {
+                        "tag": "The Payment of Bonus Act, 1965",
+                        "patterns":[
+                                "What is the objective of 'The Payment of Bonus Act, 1965,' and how does it regulate the payment of bonuses to employees in India?"
+,"Under 'The Payment of Bonus Act, 1965,' what criteria are used to determine eligibility for bonus payments, and how are bonus amounts calculated?"
+,"Can you explain the legal obligations imposed on employers by 'The Payment of Bonus Act, 1965,' including requirements for bonus payments, maintenance of records, and submission of annual returns?"
+,"How does 'The Payment of Bonus Act, 1965,' address issues related to the enforcement of bonus-related regulations, including mechanisms for grievances, inspections, and penalties for non-compliance?"
+,"What measures are in place within 'The Payment of Bonus Act, 1965,' to protect the rights of workers and ensure equitable distribution of bonuses, and how are these measures implemented by regulatory authorities?"
+                        ],
+                        "responses":[
+                                "Section 8: Computation of gross profits."
+                                ,"Section 10: Payment of minimum bonus"
+                                    
+                             
+                        ]
+                },
+                {
+                        "tag": "The Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+                        "patterns":[
+                                "What is the purpose of 'The Employees' Provident Funds and Miscellaneous Provisions Act, 1952,' and how does it govern the establishment and management of provident funds for employees?"
+                                ,"Under 'The Employees' Provident Funds and Miscellaneous Provisions Act, 1952,' what are the obligations of employers regarding the contribution to and administration of provident funds, including provisions for deduction, deposit, and withdrawal?"
+                                ,"Can you explain the legal framework outlined in 'The Employees' Provident Funds and Miscellaneous Provisions Act, 1952,' for the establishment and functioning of the Employees' Provident Fund Organization (EPFO), and what role does it play in overseeing provident fund schemes?"
+                                ,"How does 'The Employees' Provident Funds and Miscellaneous Provisions Act, 1952,' address issues related to the protection of employees' interests, including provisions for interest accrual, transfer of accounts, and settlement of claims?"
+                                ,"What mechanisms are in place within 'The Employees' Provident Funds and Miscellaneous Provisions Act, 1952,' to ensure compliance with provident fund regulations, including provisions for inspections, audits, and penalties for non-compliance?"
+                        ],
+                        "responses":[
+                                "Section 6: Contributions and matters which may be provided for in the scheme."
+                                ,"Section 7: Recovery of moneys due from employers."                             
+                        ]
+                },
+                {
+                        "tag": "The Employees' State Insurance Act, 1948",
+                        "patterns":[
+                                "What is the objective of 'The Employees' State Insurance Act, 1948,' and how does it provide social security to employees in India?"
+,"Under 'The Employees' State Insurance Act, 1948,' what are the obligations of employers regarding the registration, contribution, and administration of the Employees' State Insurance (ESI) scheme?"
+,"Can you explain the legal provisions outlined in 'The Employees' State Insurance Act, 1948,' for the coverage of employees under the ESI scheme, including eligibility criteria and benefits provided?"
+,"How does 'The Employees' State Insurance Act, 1948,' address issues related to healthcare, sickness benefits, maternity benefits, and other welfare measures for insured employees?"
+,"What mechanisms are in place within 'The Employees' State Insurance Act, 1948,' to ensure effective implementation and enforcement of ESI provisions, including provisions for inspections, audits, and penalties for non-compliance?"
+                        ],
+                        "responses":[
+                                "Section 39: Recovery of contributions."
+                                 ,"Section 44: False statements, etc."
+                                ,"Section 85: Penalty for failure to pay contributions."                                                               
+                        ]
+                },
+                {
+                        "tag": "The Industrial Employment (Standing Orders) Act, 1946",
+                        "patterns":[
+                                "What is the purpose of 'The Industrial Employment (Standing Orders) Act, 1946,' and how does it regulate the employment conditions and terms of service in industrial establishments?"
+,"Under 'The Industrial Employment (Standing Orders) Act, 1946,' what are the requirements for the formulation and certification of standing orders, and how do they govern the conduct of employers and employees within an industrial establishment?"
+,"Can you explain the legal procedures outlined in 'The Industrial Employment (Standing Orders) Act, 1946,' for the submission, modification, and enforcement of standing orders, and what role do certifying authorities play in this process?"
+,"How does 'The Industrial Employment (Standing Orders) Act, 1946,' address issues related to disciplinary actions, grievances, and termination of employment, including provisions for notice periods, appeals, and redressal mechanisms?"
+,"What mechanisms are in place within 'The Industrial Employment (Standing Orders) Act, 1946,' to ensure compliance with standing orders by both employers and employees, including provisions for inspections, penalties, and dispute resolution?"
+                        ],
+                        "responses":[
+                                "Section 3: Submission of draft standing orders."
+                                 ,"Section 4: Conditions for certification of standing orders."
+                                ,"Section 10: Penalties"
+                                                                                              
+                        ]
+                },
+                {
+                        "tag": "The Industrial Disputes Act, 1947",
+                        "patterns":[
+                                "What is the objective of 'The Industrial Disputes Act, 1947,' and how does it regulate the resolution of disputes between employers and employees in industrial establishments?"
+                                ,"Under 'The Industrial Disputes Act, 1947,' what constitutes an 'industrial dispute,' and what mechanisms are in place for its prevention, conciliation, and adjudication?"
+                               , "Can you explain the legal procedures outlined in 'The Industrial Disputes Act, 1947,' for the settlement of industrial disputes through conciliation, arbitration, and adjudication, and what role do labor authorities and tribunals play in this process?"
+                               , "How does 'The Industrial Disputes Act, 1947,' address issues related to strikes, lockouts, and layoffs, including provisions for notice periods, conditions, and consequences?"
+                               , "What mechanisms are in place within 'The Industrial Disputes Act, 1947,' to promote industrial peace, harmony, and collective bargaining, including provisions for trade unions, collective agreements, and grievance redressal?"
+                        ],
+                        "responses":[
+                                "Section 2: Definitions."
+                                ,"Section 9: Strikes and lock-outs."
+                                ,"Section 25: Prohibition of unfair labour practices."
+                                                                                                 
+                        ]
+                },
+                {
+                        "tag": "The Trade Unions Act, 1926",
+                        "patterns":[
+                                "What is the purpose of 'The Trade Unions Act, 1926,' and how does it regulate the formation, registration, and functioning of trade unions in India?"
+                                ,"Under 'The Trade Unions Act, 1926,' what are the eligibility criteria for the registration of a trade union, and what legal rights and privileges does registration confer upon a trade union?"
+                                ,"Can you explain the legal provisions outlined in 'The Trade Unions Act, 1926,' regarding the internal management, constitution, and financial accountability of registered trade unions?"
+                                ,"How does 'The Trade Unions Act, 1926,' address issues related to the recognition of trade unions by employers, including provisions for collective bargaining, representation, and dispute resolution?"
+                                ,"What mechanisms are in place within 'The Trade Unions Act, 1926,' to ensure compliance with trade union regulations, including provisions for inspection, cancellation of registration, and penalties for non-compliance?"   
+                        ],
+                        "responses":[
+                                "Section 6: Prohibition on the use of funds for political purposes."
+                                ,"Section 15: Immunity from criminal conspiracy in certain cases."                                                                                                 
+                        ]
+                },
+                {
+                        "tag": "The Contract Labour (Regulation and Abolition) Act, 1970",
+                        "patterns":[
+                                "What are the primary objectives of 'The Contract Labour (Regulation and Abolition) Act, 1970,' and how does it seek to regulate the employment of contract laborers in India?"
+                                ,"Under 'The Contract Labour (Regulation and Abolition) Act, 1970,' what are the key responsibilities of principal employers and contractors in relation to the engagement, welfare, and rights of contract laborers?"
+                                ,"Can you explain the procedures outlined in 'The Contract Labour (Regulation and Abolition) Act, 1970,' for the registration, licensing, and abolition of contract labor, and what are the criteria for determining the applicability of this law?"
+                                ,"How does 'The Contract Labour (Regulation and Abolition) Act, 1970,' address issues concerning the health, safety, and working conditions of contract laborers, including provisions for amenities, facilities, and periodic inspections?"
+                                ,"What mechanisms are in place within 'The Contract Labour (Regulation and Abolition) Act, 1970,' to enforce compliance with its provisions, including penalties for violations and avenues for redressal of grievances by contract laborers?"    
+                        ],
+                        "responses":[
+                                "Section 10: Regulation of employment and conditions of service of contract labour."
+                                ,"Section 12: Prohibition of employment of contract labour."
+                        ]        
+                                  
+                },  
+                {
+                        "tag": "The Equal Remuneration Act, 1976",
+                        "patterns":[
+                                "What is the objective of 'The Equal Remuneration Act, 1976,' and how does it address issues of gender discrimination in remuneration?"
+                                ,"Under 'The Equal Remuneration Act, 1976,' what are the legal provisions ensuring equal pay for equal work, and how are they enforced in the workplace?"
+                                ,"Can you explain the mechanisms outlined in 'The Equal Remuneration Act, 1976,' for the prevention of discrimination in recruitment, promotion, and other employment practices based on gender?"
+                                ,"How does 'The Equal Remuneration Act, 1976,' mandate transparency and accountability in remuneration policies to ensure compliance with its provisions?"
+                                ,"What measures are in place within 'The Equal Remuneration Act, 1976,' to address grievances related to unequal pay and provide remedies for affected employees?"   
+                        ],
+                        "responses":[
+                               "Section 4: Duty of employer to pay equal remuneration to men and women workers for same work or work of a similar nature."
+    ,"Section 6: No discrimination to be made while recruiting men and women workers."
+
+                        ]        
+                                  
+                },  
+                {
+                        "tag": "The Child Labour (Prohibition and Regulation) Act, 1986",
+                        "patterns":[
+                                "What are the key objectives outlined in 'The Child Labour (Prohibition and Regulation) Act, 1986,' and how does it aim to address the issue of child labor in India?"
+                                ,"Under 'The Child Labour (Prohibition and Regulation) Act, 1986,' what are the legal provisions for the prohibition and regulation of child labor, and how are they enforced?"
+                                ,"Can you explain the mechanisms outlined in 'The Child Labour (Prohibition and Regulation) Act, 1986,' for the identification, rescue, and rehabilitation of child laborers, and what role do government agencies and NGOs play in this process?"
+                                ,"How does 'The Child Labour (Prohibition and Regulation) Act, 1986,' address issues related to the employment of children in hazardous occupations and processes, including provisions for penalties and sanctions?"
+                                ,"What measures are in place within 'The Child Labour (Prohibition and Regulation) Act, 1986,' to promote education, awareness, and social mobilization against child labor, and how are these measures coordinated at the national and state levels?"   
+                        ],
+                        "responses":[
+                                "Section 3: Prohibition of employment of children in certain occupations and processes."
+                                ,"Section 14: Penalties for employing child labour."
+                        ]        
+                                  
+                },   
+                {
+                        "tag": "The Maternity Benefit Act, 1961",
+                        "patterns":[
+                                "What are the primary objectives of 'The Maternity Benefit Act, 1961,' and how does it ensure the welfare and protection of women employees during pregnancy and childbirth?"
+                                ,"Under 'The Maternity Benefit Act, 1961,' what are the entitlements provided to women employees, including provisions for maternity leave, medical benefits, and nursing breaks?"
+                                ,"Can you explain the legal obligations imposed on employers by 'The Maternity Benefit Act, 1961,' regarding the provision of maternity benefits, maintenance of records, and non-discrimination against pregnant women in the workplace?"
+                                ,"How does 'The Maternity Benefit Act, 1961,' address issues related to the enforcement of maternity benefits, including mechanisms for complaints, inspections, and penalties for non-compliance?"
+                                ,"What measures are in place within 'The Maternity Benefit Act, 1961,' to promote awareness about maternity rights, facilitate access to maternity benefits, and empower women employees to exercise their entitlements?"   
+                        ],
+                        "responses":[
+                                "Section 5: Right to payment of maternity benefit."
+                                ,"Section 10: Penalty for contravention of Act"
+                            
+                        ]                   
+                }, 
+                {
+                        "tag": "The Labour Laws (Exemption from Furnishing Returns and Maintaining Registers by Certain Establishments) Act, 1988",
+                        "patterns":[
+                                "What is the purpose of 'The Labour Laws (Exemption from Furnishing Returns and Maintaining Registers by Certain Establishments) Act, 1988,' and how does it impact the regulatory requirements for specific establishments?"
+                                ,"Under 'The Labour Laws (Exemption from Furnishing Returns and Maintaining Registers by Certain Establishments) Act, 1988,' which establishments are eligible for exemptions from furnishing returns and maintaining registers, and what criteria determine their eligibility?"
+                                ,"Can you explain the provisions outlined in 'The Labour Laws (Exemption from Furnishing Returns and Maintaining Registers by Certain Establishments) Act, 1988,' regarding the maintenance of records, registers, and returns by exempted establishments?"
+                                ,"How does 'The Labour Laws (Exemption from Furnishing Returns and Maintaining Registers by Certain Establishments) Act, 1988,' ensure compliance with labor laws despite exemptions, and what mechanisms are in place for monitoring and enforcement?"
+                                ,"What measures are in place within 'The Labour Laws (Exemption from Furnishing Returns and Maintaining Registers by Certain Establishments) Act, 1988,' to safeguard the interests of workers and prevent exploitation in exempted establishments?"    
+                        ],
+                        "responses":[
+                                "Section 3: Exemption from furnishing returns and maintaining registers under certain labour laws."            
+                        ]                   
+                },  
+                {
+                        "tag": "The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996",
+                        "patterns":[
+                                "What are the key objectives of 'The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996,' and how does it seek to regulate the employment and working conditions of construction workers?"
+                                ,"Under 'The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996,' what are the provisions for registration, welfare measures, and social security benefits for construction workers, and how are they implemented?"
+                                ,"Can you explain the legal framework outlined in 'The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996,' for the licensing of contractors, safety standards at construction sites, and provisions for accident compensation?"
+                                ,"How does 'The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996,' address issues related to the health, safety, and welfare of construction workers, including provisions for medical facilities, housing, and education for their children?"
+                                ,"What mechanisms are in place within 'The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996,' to ensure compliance with its provisions, including penalties for violations and mechanisms for redressal of grievances by construction workers?" 
+                        ],
+                        "responses":[
+                                "Section 3: Welfare measures for building and other construction workers."
+                                ,"Section 38: Penalty for obstructing an Inspector."
+                                   
+                        ]                   
+                },
+                {
+                        "tag": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+                        "patterns":[
+                                "What are the primary objectives of 'The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013,' and how does it aim to prevent and address instances of sexual harassment in workplaces?"
+,"Under 'The Sexual Harassment of Women at Workplace Act, 2013,' what constitutes sexual harassment, and what are the responsibilities of employers in creating a safe and harassment-free work environment?"
+,"Can you explain the legal procedures outlined in 'The Sexual Harassment of Women at Workplace Act, 2013,' for the constitution of Internal Complaints Committees (ICCs), the filing of complaints, and the investigation and resolution of cases of sexual harassment?"
+,"How does 'The Sexual Harassment of Women at Workplace Act, 2013,' ensure confidentiality and protection for complainants, witnesses, and persons involved in the complaint process, including provisions for penalties against false complaints and victimization?"
+,"What mechanisms are in place within 'The Sexual Harassment of Women at Workplace Act, 2013,' to promote awareness, sensitization, and training on sexual harassment issues, and how are these measures integrated into organizational policies and practices?"
+                        ],
+                        "responses":[
+                               "Section 9: Penalty for non-compliance or false statement."
+                                ,"Section 12: Punishment for false or malicious complaint and false evidence."                                   
+                        ]                   
+                },
+                {
+                        "tag": "The Apprentices Act, 1961",
+                        "patterns":[
+                                "What are the key objectives of 'The Apprentices Act, 1961,' and how does it facilitate skill development and employment opportunities for apprentices in various industries?"
+,"Under 'The Apprentices Act, 1961,' what are the provisions for the engagement, training, and certification of apprentices, and what role do employers and designated authorities play in implementing these provisions?"
+,"Can you explain the legal framework outlined in 'The Apprentices Act, 1961,' for the regulation of apprenticeship agreements, including terms and conditions, duration, and remuneration?"
+,"How does 'The Apprentices Act, 1961,' promote the welfare and protection of apprentices, including provisions for safety, health, and working conditions during their training period?"
+,"What mechanisms are in place within 'The Apprentices Act, 1961,' to monitor and evaluate apprenticeship programs, ensure compliance with its provisions, and address grievances or disputes arising between employers and apprentices?"
+                        ],
+                        "responses":[
+                                "Section 22: Penalty for failure to make a contract."
+                                ,"Section 27: Penalty for employing an apprentice otherwise than in accordance with the contract of apprenticeship."
+                                                               
+                        ]                   
+                },
+                {
+                        "tag": "The Industrial Employment (Standing Orders) Central Rules, 1946",
+                        "patterns":[
+                                "What is the purpose of 'The Industrial Employment (Standing Orders) Central Rules, 1946,' and how do they complement 'The Industrial Employment (Standing Orders) Act, 1946,' in regulating employment conditions in industrial establishments?"
+                                ,"Under 'The Industrial Employment (Standing Orders) Central Rules, 1946,' what are the requirements and procedures for the certification of standing orders, and how do they ensure clarity and uniformity in the terms of employment?"
+                                ,"Can you explain the provisions outlined in 'The Industrial Employment (Standing Orders) Central Rules, 1946,' regarding the content of standing orders, including disciplinary procedures, hours of work, and conditions of service?"
+                                ,"How do 'The Industrial Employment (Standing Orders) Central Rules, 1946,' address issues related to the modification, interpretation, and display of standing orders, ensuring transparency and adherence to legal requirements?"
+                                ,"What mechanisms are in place within 'The Industrial Employment (Standing Orders) Central Rules, 1946,' to facilitate compliance monitoring, dispute resolution, and enforcement of standing orders in industrial establishments?"
+                        ],
+                        "responses":[
+                                 "Rule 15: Posting of standing orders."
+    ,"Rule 16: Certification of standing orders."
+                                                               
+                        ]                   
+                },
+                {
+                        "tag": "The Employees' Compensation Act, 1923",
+                        "patterns":[
+                                "What are the primary objectives of 'The Employees' Compensation Act, 1923,' and how does it provide financial protection to employees and their dependents in case of work-related injuries or death?"
+,"Under 'The Employees' Compensation Act, 1923,' what are the criteria for determining compensable injuries or diseases, and how are compensation benefits calculated and disbursed to eligible beneficiaries?"
+,"Can you explain the legal obligations imposed on employers by 'The Employees' Compensation Act, 1923,' regarding the provision of compensation, reporting of accidents, and maintenance of records?"
+,"How does 'The Employees' Compensation Act, 1923,' ensure access to justice for employees by establishing mechanisms for adjudication of claims, appeals, and dispute resolution?"
+,"What measures are in place within 'The Employees' Compensation Act, 1923,' to promote prevention of occupational hazards, workplace safety, and rehabilitation of injured workers, and how are these measures enforced?"
+                        ],
+                        "responses":[
+                                "Section 4: Employer's liability for compensation."
+                                ,"Section 25: Penalties."                                       
+                        ]                   
+                },
+                {
+                        "tag": "The Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979",
+                        "patterns":[
+                                "What are the primary obligations of employers and contractors under 'The Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979,' and how does it ensure the protection of rights for inter-state migrant workers?"
+,"Under 'The Inter-State Migrant Workmen Act, 1979,' what are the procedures for the registration of establishments and licensing of contractors, and what are the consequences of non-compliance with these regulations?"
+,"Can you explain the provisions outlined in 'The Inter-State Migrant Workmen Act, 1979,' regarding the payment of wages, provision of amenities, and social security measures for inter-state migrant workers, and how are these provisions enforced?"
+,"How does 'The Inter-State Migrant Workmen Act, 1979,' address issues related to the health, safety, and working conditions of inter-state migrant workers, including provisions for medical facilities, housing, and transportation?"
+,"What mechanisms are in place within 'The Inter-State Migrant Workmen Act, 1979,' to monitor and regulate the recruitment, deployment, and welfare of inter-state migrant workers, and how are grievances addressed under this law?"
+                        ],
+                        "responses":[
+                                "Section 3: Appointment of registering officers."
+                                ,"Section 7: Payment of wages."
+                                                                       
+                        ]                   
+                },
+                {
+                        "tag": "The Motor Transport Workers Act, 1961",
+                        "patterns":[
+                                "What are the objectives of 'The Motor Transport Workers Act, 1961,' and how does it aim to regulate the employment and working conditions of motor transport workers?"
+,"Under 'The Motor Transport Workers Act, 1961,' what are the provisions for the registration of motor transport establishments, licensing of drivers, and enforcement of safety standards, and how are these provisions implemented?"
+,"Can you explain the legal framework outlined in 'The Motor Transport Workers Act, 1961,' for the fixation of hours of work, payment of wages, and provision of welfare measures for motor transport workers?"
+,"How does 'The Motor Transport Workers Act, 1961,' address issues related to the health, safety, and social security of motor transport workers, including provisions for medical facilities, leave entitlements, and insurance benefits?"
+,"What mechanisms are in place within 'The Motor Transport Workers Act, 1961,' to monitor compliance with its provisions, investigate complaints, and adjudicate disputes between employers and motor transport workers?"
+                        ],
+                        "responses":[
+                                "Section 6: Hours of work."
+                                ,"Section 7: Rest intervals."                                                                       
+                        ]                   
+                },
+                {
+                        "tag": "The Working Journalists and Other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955",
+                        "patterns":[
+                                "What are the primary objectives of 'The Working Journalists and Other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955,' and how does it regulate the employment conditions of journalists and newspaper employees?"
+                                ,"Under 'The Working Journalists and Other Newspaper Employees Act, 1955,' what are the provisions for the fixation of rates of wages, hours of work, and conditions of service for journalists and newspaper employees, and how are these provisions enforced?"
+                                ,"Can you explain the legal framework outlined in 'The Working Journalists and Other Newspaper Employees Act, 1955,' for the recognition of newspaper establishments, accreditation of journalists, and redressal of grievances, and how are disputes resolved under this law?"
+                                ,"How does 'The Working Journalists and Other Newspaper Employees Act, 1955,' ensure the protection of rights and welfare measures for journalists and newspaper employees, including provisions for provident fund, gratuity, and insurance benefits?"
+                                ,"What mechanisms are in place within 'The Working Journalists and Other Newspaper Employees Act, 1955,' to promote professional ethics, freedom of the press, and fair employment practices within the newspaper industry, and how are these mechanisms monitored and upheld?"        
+                        ],
+                        "responses":[
+                                "Section 15: Penalty for contravention of the provisions of this Act "                                                                   
+                        ]                   
+                },
+                {
+                        "tag": "The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959",
+                        "patterns":[
+                                "What are the key objectives of 'The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959,' and how does it facilitate the regulation of job vacancies and employment opportunities?"
+,"Under 'The Employment Exchanges Act, 1959,' what are the obligations imposed on employers regarding the compulsory notification of job vacancies to employment exchanges, and what are the consequences of non-compliance with these obligations?"
+,"Can you explain the procedures outlined in 'The Employment Exchanges Act, 1959,' for the registration of job vacancies, submission of vacancy reports, and dissemination of employment information to job seekers, and how are these procedures monitored?"
+,"How does 'The Employment Exchanges Act, 1959,' promote transparency and equal opportunity in recruitment processes, including provisions for non-discrimination and fair selection criteria for job vacancies?"
+,"What mechanisms are in place within 'The Employment Exchanges Act, 1959,' to assess the effectiveness of employment exchange services, facilitate job matching between employers and job seekers, and address grievances related to job notifications and placements?"        
+                        ],
+                        "responses":[
+                                "Section 5: Penalty for contravention of the provisions of this Act"                                                                    
+                        ]                   
+                },
+                {
+                        "tag": "The Beedi and Cigar Workers (Conditions of Employment) Act, 1966",
+                        "patterns":[
+                                "What are the primary objectives of 'The Beedi and Cigar Workers (Conditions of Employment) Act, 1966,' and how does it regulate the working conditions and welfare of beedi and cigar workers?"
+                                ,"Under 'The Beedi and Cigar Workers Act, 1966,' what are the provisions for the fixation of rates of wages, hours of work, and other conditions of service for beedi and cigar workers, and how are these provisions enforced?"
+                                ,"Can you explain the measures outlined in 'The Beedi and Cigar Workers Act, 1966,' for the provision of welfare amenities, health and safety standards, and social security benefits to beedi and cigar workers, and how are these measures implemented?"
+                                ,"How does 'The Beedi and Cigar Workers Act, 1966,' address issues related to the employment of women and children in beedi and cigar industries, including provisions for their protection, education, and rehabilitation?"
+                                ,"What mechanisms are in place within 'The Beedi and Cigar Workers Act, 1966,' to monitor compliance with its provisions, investigate complaints of violations, and ensure the fair treatment of beedi and cigar workers by employers?"      
+                        ],
+                        "responses":[
+                                "Section 8: Maintenance of welfare fund."
+                                ,"Section 9: Penalty for obstructing an Inspector."
+                                                                                             
+                        ]                   
+                },
+                {
+                        "tag": "The Dock Workers (Safety, Health and Welfare) Act, 1986",
+                        "patterns":[
+                                "What are the main objectives of 'The Dock Workers (Safety, Health and Welfare) Act, 1986,' and how does it ensure the safety, health, and welfare of dock workers?"
+                                ,"Under 'The Dock Workers Act, 1986,' what are the specific safety measures and regulations in place to prevent accidents and injuries in dockyards, and how are these regulations enforced?"
+                                ,"Can you explain the provisions outlined in 'The Dock Workers Act, 1986,' for the maintenance of health and welfare facilities for dock workers, including medical aid, sanitation, and rest periods?"
+                                ,"How does 'The Dock Workers Act, 1986,' address the issue of hazardous cargo handling and its impact on the health and safety of dock workers, and what measures are taken to mitigate risks associated with such activities?"
+                                ,"What mechanisms are established within 'The Dock Workers Act, 1986,' for regular inspections, audits, and reporting of safety and health conditions in dockyards, and how are corrective actions implemented based on these assessments?"   
+                        ],
+                        "responses":[
+                                "Section 7: Obligation of the employer."
+                                ,"Section 8: Penalty for obstructing an Inspector"                                                                            
+                        ]                   
+                },
+                {
+                        "tag": "The Plantations Labour Act, 1951",
+                        "patterns":[
+                                "What are the primary objectives of 'The Plantations Labour Act, 1951,' and how does it regulate the working conditions and welfare of plantation workers?"
+                                ,"Under 'The Plantations Labour Act, 1951,' what are the provisions for the fixation of wages, hours of work, and other conditions of employment for plantation workers, and how are these provisions enforced?"
+                                ,"Can you explain the measures outlined in 'The Plantations Labour Act, 1951,' for the provision of housing, medical facilities, and social security benefits to plantation workers, and how are these measures implemented by plantation owners?"
+                                ,"How does 'The Plantations Labour Act, 1951,' address issues related to the employment of women and children in plantations, including provisions for their protection, education, and welfare?"
+                                ,"What mechanisms are in place within 'The Plantations Labour Act, 1951,' to monitor compliance with its provisions, investigate complaints of violations, and ensure the fair treatment of plantation workers by employers?"
+                        ],
+                        "responses":[
+                                "Section 11: Maintenance of registers and records."
+                                ,"Section 12: Display of notices."                                                                        
+                        ]          
+                             
+                },
+                {
+                        "tag": "The Sales Promotion Employees (Conditions of Service) Act, 1976",
+                        "patterns":[
+                                "What are the objectives outlined in 'The Sales Promotion Employees (Conditions of Service) Act, 1976,' and how does it regulate the employment conditions of sales promotion employees?"
+,"Under 'The Sales Promotion Employees Act, 1976,' what are the specific provisions regarding the fixation of wages, hours of work, and other conditions of service for sales promotion employees, and how are these provisions enforced?"
+,"Can you explain the mechanisms established in 'The Sales Promotion Employees Act, 1976,' for the recognition of sales promotion establishments, registration of employees, and resolution of disputes between employers and employees?"
+,"How does 'The Sales Promotion Employees Act, 1976,' address issues related to the termination of employment, payment of gratuity, and other benefits for sales promotion employees, and what recourse do employees have in case of unfair treatment?"
+,"What measures are in place within 'The Sales Promotion Employees Act, 1976,' to ensure compliance with its provisions, monitor working conditions, and promote the welfare of sales promotion employees?"
+                        ],
+                        "responses":[
+                                "Section 9: Penalty for contravention of the provisions of this Act"                                                                       
+                        ]          
+                             
+                },
+                {
+                        "tag": "The Bonded Labour System (Abolition) Act, 1976",
+                        "patterns":[
+                                "What are the key objectives of 'The Bonded Labour System (Abolition) Act, 1976,' and how does it aim to eradicate the practice of bonded labor in India?"
+                                ,"Under 'The Bonded Labour System (Abolition) Act, 1976,' what are the mechanisms for identifying and releasing bonded laborers, and what support systems are in place for their rehabilitation?"
+                                ,"Can you explain the legal framework outlined in 'The Bonded Labour System (Abolition) Act, 1976,' for prosecuting offenders who engage in bonded labor practices, and how are these laws enforced?"
+                                ,"How does 'The Bonded Labour System (Abolition) Act, 1976,' address issues related to debt bondage, forced labor, and exploitation of vulnerable communities, and what measures are taken to prevent their recurrence?"
+                                ,"What mechanisms are in place within 'The Bonded Labour System (Abolition) Act, 1976,' to raise awareness, provide education, and empower marginalized communities to resist and report instances of bonded labor?"
+                        ],
+                        "responses":[
+                                "Section 6: Punishment for extracting bonded labour under the bonded labour system."
+                                ,"Section 17: Penalty for advancing bonded debt."
+                                   
+                        ]          
+                             
+                },
+                {
+                        "tag": "The Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act, 1993",
+                        "patterns":[
+                                "What are the primary objectives of 'The Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act, 1993,' and how does it aim to eliminate the inhumane practice of manual scavenging?"
+,"Under 'The Employment of Manual Scavengers Act, 1993,' what are the specific provisions for identifying manual scavengers and ensuring their rehabilitation, and how are these provisions implemented?"
+,"Can you explain the measures outlined in 'The Employment of Manual Scavengers Act, 1993,' for the prohibition of construction of dry latrines and the conversion of existing ones, and what penalties are imposed for non-compliance?"
+,"How does 'The Employment of Manual Scavengers Act, 1993,' address issues related to the dignity, health, and safety of manual scavengers, including provisions for protective gear, healthcare, and alternative livelihood opportunities?"
+,"What mechanisms are in place within 'The Employment of Manual Scavengers Act, 1993,' to monitor and enforce its provisions, investigate complaints of violations, and ensure the effective implementation of rehabilitation programs for manual scavengers?"
+                        ],
+                        "responses":[
+                                "Section 5: Penalty for contravention of the provisions of this Act."
+                                   
+                        ]          
+                             
+                },
+                {
+                        "tag": "The Limestone and Dolomite Mines Labour Welfare Fund Act, 1972",
+                        "patterns":[
+                                "What are the objectives of 'The Limestone and Dolomite Mines Labour Welfare Fund Act, 1972,' and how does it contribute to the welfare of laborers employed in limestone and dolomite mines?"
+                                ,"Under 'The Limestone and Dolomite Mines Labour Welfare Fund Act, 1972,' what are the provisions for the collection and utilization of funds for the welfare of mine workers, and how are these funds managed and disbursed?"
+                                ,"Can you explain the welfare measures outlined in 'The Limestone and Dolomite Mines Labour Welfare Fund Act, 1972,' including provisions for housing, healthcare, education, and social security benefits for mine workers and their families?"
+                                ,"How does 'The Limestone and Dolomite Mines Labour Welfare Fund Act, 1972,' ensure the participation of mine workers in decision-making processes related to the utilization of welfare funds, and what mechanisms are in place for grievance redressal?"
+                                ,"What steps are taken within 'The Limestone and Dolomite Mines Labour Welfare Fund Act, 1972,' to promote the overall well-being and quality of life of mine workers, and how are the effectiveness of these measures assessed and improved over time?"
+                        ],
+                        "responses":[
+                                "Section 8: Maintenance of the Welfare Fund."
+    ,"Section 9: Penalties"
+
+                                   
+                        ]          
+                             
+                },
+                {
+                        "tag": "Motor Vehicles Act, 1988",
+                        "patterns":[
+                                "What are the key objectives outlined in the 'Motor Vehicles Act, 1988,' and how does it regulate the operation, registration, and use of motor vehicles in India?"
+                                ,"Under the 'Motor Vehicles Act, 1988,' what are the provisions for obtaining licenses, permits, and vehicle registrations, and how are these regulations enforced by the authorities?"
+                                ,"Can you explain the measures outlined in the 'Motor Vehicles Act, 1988,' for ensuring road safety, including rules regarding speed limits, seat belts, helmets, and other safety equipment?"
+                                ,"How does the 'Motor Vehicles Act, 1988,' address issues related to vehicle pollution, emission standards, and environmental protection, and what measures are in place to enforce these regulations?"
+                                ,"What mechanisms are established within the 'Motor Vehicles Act, 1988,' to handle accidents, insurance claims, and legal proceedings, and how are the rights and responsibilities of drivers and vehicle owners defined under this law?"
+                        ],
+                        "responses":[
+                                	"Section 3: Necessity for driving license."
+	,"Section 4: Age limit in connection with driving of motor vehicles."
+	,"Section 5: Responsibility of owners of motor vehicles."
+	,"Section 20: Power to detain vehicles used without certificate of registration or permit, etc."
+	,"Section 185: Driving by a drunken person or by a person under the influence of drugs."
+	,"Section 186: Driving when mentally or physically unfit to drive."
+	,"Section 198: Prosecution of owners or managers of places where vehicles are overloaded."
+
+                                   
+                        ]          
+                             
+                },
+                {
+                        "tag": "Central Motor Vehicles Rules, 1989",
+                        "patterns":[
+                                "What are the primary regulations outlined in the 'Central Motor Vehicles Rules, 1989,' and how do they complement the provisions of the Motor Vehicles Act, 1988?"
+,"Under the 'Central Motor Vehicles Rules, 1989,' what are the specifications for vehicle construction, safety standards, and equipment requirements, and how are these regulations enforced by authorities?"
+,"Can you explain the procedures and requirements for vehicle registration, licensing, and fitness certification as stipulated in the 'Central Motor Vehicles Rules, 1989,' and how are these processes managed by the relevant authorities?"
+,"How does the 'Central Motor Vehicles Rules, 1989,' address technical aspects such as vehicle dimensions, weight limits, and axle load regulations, and what measures are taken to ensure compliance with these standards?"
+,"What provisions are outlined in the 'Central Motor Vehicles Rules, 1989,' for the licensing and training of drivers, including rules regarding driving schools, instructor qualifications, and testing procedures?"
+                        ],
+                        "responses":[
+                                	"Rule 15: Conditions of fitness."
+                                	,"Rule 21: Registration marks to be displayed on the motor vehicles."
+                                	,"Rule 94: Standards for safety glass."
+                                	,"Rule 123: Maintenance of registers by the Driving Training School."                                   
+                        ]          
+                             
+                },
+                {
+                        "tag": "The Road Transport Corporations Act, 1950",
+                        "patterns":[
+                                "What are the objectives set forth in 'The Road Transport Corporations Act, 1950,' and how does it govern the establishment and functioning of road transport corporations in India?"
+,"Under 'The Road Transport Corporations Act, 1950,' what are the provisions regarding the constitution, powers, and functions of road transport corporations, and how are these corporations regulated by the government?"
+,"Can you explain the mechanisms outlined in 'The Road Transport Corporations Act, 1950,' for the management of finances, assets, and liabilities of road transport corporations, and how are these entities held accountable for their operations?"
+,"How does 'The Road Transport Corporations Act, 1950,' address issues related to the coordination and integration of transport services, including inter-state cooperation and regulation of routes?"
+,"What measures are in place within 'The Road Transport Corporations Act, 1950,' to ensure the provision of efficient, affordable, and safe transportation services to the public, and how are the performance and effectiveness of road transport corporations evaluated?"
+                        ],
+                        "responses":[
+                                	"Section 4: Establishment of road transport corporations."
+                               	,"Section 6: Management of road transport corporations."
+                                	,"Section 30: Penalty for breach of contract for the carriage of goods."
+                                    
+
+                                   
+                        ]          
+                             
+                },
+                {
+                "tag": "The Road Transport Corporation (Fixation of Maximum Number of Stages and Staging Fares) Scheme, 1982",
+                "patterns":[
+                        "What is the purpose of 'The Road Transport Corporation (Fixation of Maximum Number of Stages and Staging Fares) Scheme, 1982,' and how does it regulate the determination of stages and staging fares for road transport services?"
+,"Under 'The Road Transport Corporation (Fixation of Maximum Number of Stages and Staging Fares) Scheme, 1982,' what criteria are used to determine the maximum number of stages and the fares for each stage, and how are these criteria applied by transport authorities?"
+,"Can you explain the process outlined in 'The Road Transport Corporation (Fixation of Maximum Number of Stages and Staging Fares) Scheme, 1982,' for revising or updating the maximum number of stages and staging fares, and how often are these revisions conducted?"
+,"How does 'The Road Transport Corporation (Fixation of Maximum Number of Stages and Staging Fares) Scheme, 1982,' ensure transparency and fairness in the fixation of staging fares, and what mechanisms are in place for public consultation and feedback?"
+,"What measures are implemented within 'The Road Transport Corporation (Fixation of Maximum Number of Stages and Staging Fares) Scheme, 1982,' to prevent exploitation of passengers through arbitrary fare increases or unauthorized staging practices?"
+                ],
+                "responses":[
+                                
+                        	"Section 4: Fixation of the maximum number of stages for stage carriages."                                      
+                ]                               
+        },
+        {
+                "tag": "The National Highways Act, 1956",
+                "patterns":[
+                        "What is the scope and purpose of 'The National Highways Act, 1956,' and how does it govern the development, maintenance, and management of national highways across India?"
+,"Under 'The National Highways Act, 1956,' what procedures and criteria are followed for the acquisition of land, including compensation mechanisms, for the construction and expansion of national highways?"
+,"Can you explain the provisions outlined in 'The National Highways Act, 1956,' for the regulation of traffic, toll collection, and enforcement of safety standards on national highways?"
+,"How does 'The National Highways Act, 1956,' address issues related to the protection and preservation of the environment, including measures for minimizing the ecological impact of highway construction and operation?"
+,"What mechanisms are established within 'The National Highways Act, 1956,' to resolve disputes, handle grievances, and ensure the efficient management and utilization of national highway resources?"
+                ],
+                "responses":[
+                                
+                       "Section 3A: Power to declare certain highways to be national highways."
+                        	,"Section 6: Declaration of intended acquisition."
+                       	,"Section 21: Power to enter and survey."
+                                                                          
+                ]                               
+        },
+        {
+                "tag": "The Carriage by Road Act, 2007",
+                "patterns":[
+                        "What are the objectives of 'The Carriage by Road Act, 2007,' and how does it regulate the transportation of goods by road carriers in India?"
+                        ,"Under 'The Carriage by Road Act, 2007,' what are the rights and obligations of carriers and consignors, and how are these defined in terms of liability, insurance, and delivery of goods?"
+                        ,"Can you explain the procedures outlined in 'The Carriage by Road Act, 2007,' for the issuance of consignment notes, documentation of contracts, and settlement of disputes between carriers and consignors?"
+                        ,"How does 'The Carriage by Road Act, 2007,' ensure the safety and security of transported goods, including provisions for packaging standards, handling procedures, and risk management practices?"
+                        ,"What measures are in place within 'The Carriage by Road Act, 2007,' to promote efficiency, transparency, and accountability in road transportation services, and how are these monitored and enforced by regulatory authorities?"
+                ],
+                "responses":[
+                        	"Section 3: Application of the Act."
+                	,"Section 6: Restriction on the use of motor vehicles in certain areas."                                                                          
+                ]                               
+        },
+        {
+                "tag": "The Control of National Highways (Land and Traffic) Act, 2002",
+                "patterns":[
+                        "What is the purpose of 'The Control of National Highways (Land and Traffic) Act, 2002,' and how does it regulate the utilization and management of land and traffic on national highways?"
+,"Under 'The Control of National Highways (Land and Traffic) Act, 2002,' what are the mechanisms for controlling and coordinating activities such as construction, development, and maintenance along national highways?"
+,"Can you explain the provisions outlined in 'The Control of National Highways (Land and Traffic) Act, 2002,' regarding land acquisition, compensation, and resettlement of affected individuals or communities?"
+,"How does 'The Control of National Highways (Land and Traffic) Act, 2002,' address issues related to traffic management, including regulations for speed limits, parking, and road safety measures?"
+,"What measures are implemented within 'The Control of National Highways (Land and Traffic) Act, 2002,' to mitigate environmental impacts, protect heritage sites, and ensure sustainable development along national highways?"
+                ],
+                "responses":[
+                       	"Section 3: Declaration of control areas."
+	,"Section 6: Restriction or prohibition of the use of national highways."
+	                                                                          
+                ]                               
+        },
+        {
+                "tag": "The Transfer of Property Act, 1882",
+                "patterns":[
+                        "What are the key provisions outlined in 'The Transfer of Property Act, 1882,' and how does it govern the transfer of immovable property in India?"
+,"Under 'The Transfer of Property Act, 1882,' what are the different modes of property transfer recognized, including sale, mortgage, lease, gift, and exchange, and what are the legal requirements for each?"
+,"Can you explain the concept of 'transferable property' as defined in 'The Transfer of Property Act, 1882,' and how does it differ from other forms of property ownership?"
+,"How does 'The Transfer of Property Act, 1882,' address issues related to the rights and liabilities of both transferors and transferees, including conditions for valid transfers and remedies for breach of contract?"
+,"What mechanisms are in place within 'The Transfer of Property Act, 1882,' to ensure the registration, documentation, and enforcement of property transfers, and how are disputes resolved under this law?"
+                ],
+                "responses":[
+                        "Section 5: Transfer of property defined."
+                        ,"Section 6: What may be transferred."
+                        ," Section 8: Operation of transfer."
+                        ,"Section 41: Transfer by ostensible owner."
+                        ,"Section 58: Mortgage, mortgagor, mortgagee, mortgage-money, and mortgage-deed defined."	                                                                          
+                ]                               
+        },
+        {
+                "tag": "The Registration Act, 1908",
+                "patterns":[
+                        "What is the purpose of 'The Registration Act, 1908,' and how does it regulate the registration of various documents, including property transactions, leases, and deeds, in India?"
+,"Under 'The Registration Act, 1908,' what are the procedures and requirements for registering different types of documents, and what are the consequences of non-registration?"
+,"Can you explain the significance of 'registration' as defined in 'The Registration Act, 1908,' and how does it provide legal validity and authenticity to the documents registered?"
+,"How does 'The Registration Act, 1908,' ensure transparency and public access to registered documents, including provisions for inspection, search, and certified copies?"
+,"What measures are in place within 'The Registration Act, 1908,' to prevent fraudulent registrations, protect the rights of parties involved, and facilitate the orderly transfer of property and rights?"
+                ],
+                "responses":[
+                         "Section 17: Documents of which registration is compulsory."
+                         ,"Section 23: Persons claiming under documents not duly registered."
+                         ,"Section 25: Searches in registers and filing of documents."
+                         ,"Section 32: Duty to make entries in books kept in the registration offices."
+                        ," Section 77: Orders of refusal to register to be recorded and reasons for such refusal to be entered."
+                                                                                                           
+                ]                               
+        },
+        {
+                "tag": "The Specific Relief Act, 1963",
+                "patterns":[
+                        "What is the purpose of 'The Specific Relief Act, 1963,' and how does it provide remedies for breach of contract and other civil wrongs in India?"
+                        ,"Under 'The Specific Relief Act, 1963,' what are the specific reliefs available to parties in case of breach of contract, and how are these remedies enforced by the courts?"
+                        ,"Can you explain the concept of 'specific performance' as outlined in 'The Specific Relief Act, 1963,' and under what circumstances can a court order specific performance of a contract?"
+                        ,"How does 'The Specific Relief Act, 1963,' differentiate between specific and general reliefs, and what factors does the court consider when granting specific reliefs?"
+                        ,"What provisions are included in 'The Specific Relief Act, 1963,' to protect the interests of parties seeking specific reliefs, including provisions for injunctions, rescission of contracts, and restitution?"                        
+                ],
+                "responses":[
+                        "Section 4: Specific relief granted only for enforcing individual civil rights and not for enforcing penal laws."
+                         ,"Section 5: Recovery of specific immovable property."
+                         ,"Section 6: Suit by person dispossessed of immovable property."
+                        ,"Section 9: Enforcement of rights of pre-emption."
+                        
+                                                                                                           
+                ]                               
+        },
+        {
+                "tag": "The Indian Easements Act, 1882",
+                "patterns":[
+                        "What is the scope and purpose of 'The Indian Easements Act, 1882,' and how does it regulate the rights and liabilities associated with easements in India?"
+                        ,"Under 'The Indian Easements Act, 1882,' what constitutes an 'easement' and what are the different types of easements recognized under this law?"
+                        ,"Can you explain the mechanisms outlined in 'The Indian Easements Act, 1882,' for the creation, transfer, and extinguishment of easement rights, and how are these rights enforced by the courts?"
+                        ,"How does 'The Indian Easements Act, 1882,' address issues related to the maintenance, repair, and alteration of easements, including provisions for compensation and disputes resolution?"
+                        ,"What measures are in place within 'The Indian Easements Act, 1882,' to protect the interests of both dominant and servient owners, and how are conflicts between conflicting easements resolved?"                       
+                ],
+                "responses":[
+                        "Section 2: Easement defined."
+                        ,"Section 4: Servient heritage and dominant heritage defined."
+                        , "Section 5: Continuous and discontinuous easements."
+                        , "Section 7: Easements restrictive of certain rights."
+                        , "Section 8: Rights which cannot be acquired by prescription."                                                                                                           
+                ]                               
+        },
+        {
+                "tag": "The Limitation Act, 1963",
+                "patterns":[
+                        "What is the purpose of 'The Limitation Act, 1963,' and how does it govern the time limits within which legal actions must be initiated in India?"
+,"Under 'The Limitation Act, 1963,' what are the different types of suits and applications for which limitation periods are prescribed, and how are these periods calculated?"
+,"Can you explain the concept of 'limitation periods' as defined in 'The Limitation Act, 1963,' and what exceptions or provisions exist for extending or waiving these periods?"
+,"How does 'The Limitation Act, 1963,' address issues related to delays in legal proceedings, including provisions for condonation of delay, and what factors do courts consider when granting such condonations?"
+,"What measures are in place within 'The Limitation Act, 1963,' to ensure the fair and efficient administration of justice, including provisions for tolling of limitation periods, and how are these interpreted and applied by the judiciary?"                      
+                ],
+                "responses":[
+                       " Article 65: For possession of immovable property or any interest therein based on title."
+                        ,"Article 136: For possession of immovable property by a plaintiff not claiming through a title barred by the law of limitation."
+                                                                                                                                   
+                ]                               
+        },
+        {
+                "tag": "The Benami Transactions (Prohibition) Act, 1988",
+                "patterns":[
+                        "What is the primary objective of 'The Benami Transactions (Prohibition) Act, 1988,' and how does it aim to curb the practice of benami transactions in India?"
+                       , "Under 'The Benami Transactions (Prohibition) Act, 1988,' what constitutes a 'benami transaction,' and what are the criteria used to identify and classify such transactions?"
+                       , "Can you explain the legal framework outlined in 'The Benami Transactions (Prohibition) Act, 1988,' for the prevention, detection, and confiscation of benami properties, including the roles and responsibilities of competent authorities?"
+                       , "How does 'The Benami Transactions (Prohibition) Act, 1988,' address issues related to enforcement mechanisms, penalties for violations, and the adjudication process for benami transactions?"
+                       , "What measures are in place within 'The Benami Transactions (Prohibition) Act, 1988,' to promote transparency, accountability, and fairness in property transactions, and how are these implemented and monitored by regulatory authorities?"                    
+                ],
+                "responses":[
+                        "Section 3: Prohibition of benami transactions."
+                         ,"Section 4: Prohibition of the right to recover property held benami."
+                     
+                                                                                                                                   
+                ]                               
+        },
+        {
+                "tag": "The Registration (Amendment) Act, 2001",
+                "patterns":[
+                        "What amendments were introduced by 'The Registration (Amendment) Act, 2001,' and how do these amendments affect the registration process of various documents in India?"
+                        ,"Under 'The Registration (Amendment) Act, 2001,' what specific changes were made to the procedures and requirements for registering different types of documents, and how do these changes impact stakeholders?"
+                        ,"Can you elucidate the reasons behind the enactment of 'The Registration (Amendment) Act, 2001,' and what objectives were aimed to be achieved through these amendments?"
+                        ,"How does 'The Registration (Amendment) Act, 2001,' streamline the registration process, enhance transparency, and improve accessibility to registered documents for the general public?"
+                        ,"What provisions were included in 'The Registration (Amendment) Act, 2001,' to address any shortcomings or loopholes identified in the previous registration laws, and how do these provisions contribute to the overall effectiveness of the registration system?"                                            
+                ],
+                "responses":[
+                       
+                        "Section 10: Amendments to the Registration Act, 1908."  
+                                                                                                                                   
+                ]                               
+        },
+        {
+                "tag": "The Government Grants Act, 1895",
+                "patterns":[
+                        "What is the scope and purpose of 'The Government Grants Act, 1895,' and how does it regulate the transfer of property by the government in India?"
+                        ,"Under 'The Government Grants Act, 1895,' what constitutes a 'government grant,' and what are the legal requirements and procedures for making such grants?"
+                        ,"Can you explain the mechanisms outlined in 'The Government Grants Act, 1895,' for the validation and enforcement of government grants, including provisions for registration and documentation?"
+                        ,"How does 'The Government Grants Act, 1895,' ensure the protection of the rights of grantors and grantees, including safeguards against unauthorized transfers or revocations of government property?"
+                        ,"What measures are in place within 'The Government Grants Act, 1895,' to prevent misuse, fraud, or disputes related to government grants, and how are conflicts resolved under this law?" 
+                ],
+                "responses":[
+                        "Section 2: Definitions."
+    ,"Section 3: Restrictions on alienation."
+ 
+                                                                                                                                   
+                ]                               
+        },
+        {
+                "tag": "The Urban Land (Ceiling and Regulation) Act, 1976",
+                "patterns":[
+                        "What was the primary objective behind enacting 'The Urban Land (Ceiling and Regulation) Act, 1976,' and how did it aim to address issues related to urban land ownership and utilization in India?"
+,"Under 'The Urban Land (Ceiling and Regulation) Act, 1976,' what criteria were established to determine the ceiling limits for urban land holdings, and how were these limits enforced by the authorities?"
+,"Can you elucidate the provisions outlined in 'The Urban Land (Ceiling and Regulation) Act, 1976,' for the regulation of transactions involving urban land, including provisions for acquisition, disposal, and utilization?"
+,"How did 'The Urban Land (Ceiling and Regulation) Act, 1976,' impact urban development and housing projects, particularly in terms of promoting equitable distribution of urban land and addressing housing shortages?"
+,"What were the key challenges or criticisms faced by 'The Urban Land (Ceiling and Regulation) Act, 1976,' during its implementation, and how did these factors contribute to its eventual repeal and replacement with alternative legislation?"
+                ],
+                "responses":[
+                         "Section 4: Ceiling on vacant land."
+                         ,"Section 5: Land to be surplus land in certain cases."                                                                                                                          
+                ]                               
+        },
+        {
+        "tag": "The Land Acquisition Act, 1894",
+        "patterns":[
+                "What were the key provisions of 'The Land Acquisition Act, 1894,' and how did it govern the process of land acquisition for public purposes in India?"
+,"Under 'The Land Acquisition Act, 1894,' what criteria were used to determine the compensation payable to landowners affected by acquisition, and how were disputes regarding compensation resolved?"
+,"Can you explain the mechanisms outlined in 'The Land Acquisition Act, 1894,' for the declaration of land acquisition, including the roles and responsibilities of the acquiring authorities and the procedures for conducting inquiries and hearings?"
+,"How did 'The Land Acquisition Act, 1894,' balance the interests of landowners and the requirements of public projects, particularly in terms of ensuring fair compensation and rehabilitation measures for affected individuals and communities?"
+,"What were the significant amendments or revisions made to 'The Land Acquisition Act, 1894,' over time, and how did these changes reflect evolving societal needs, economic conditions, and legal principles regarding land acquisition?"
+        ],
+        "responses":[
+                "Section 4: Publication of preliminary notification and powers of officers thereupon."
+                ," Section 5: Hearing of objections."
+                ," Section 6: Declaration that land is required for a public purpose."
+                 ,"Section 9: Publication of declaration and effect thereof."
+                ,"Section 16: Power to take possession."
+                                                                                                                                        
+               ]                               
+        },
+        {
+        "tag": "The Maharashtra Rent Control Act, 1999",
+        "patterns":[
+                "What are the key provisions of 'The Maharashtra Rent Control Act, 1999,' and how does it regulate the relationship between landlords and tenants in Maharashtra?"
+,"Under 'The Maharashtra Rent Control Act, 1999,' what criteria determine the fixation of fair rents for different types of properties, and how are disputes regarding rent amounts adjudicated?"
+,"Can you explain the rights and obligations of landlords and tenants as outlined in 'The Maharashtra Rent Control Act, 1999,' including provisions related to eviction, maintenance, and tenancy agreements?"
+,"How does 'The Maharashtra Rent Control Act, 1999,' address issues such as rent arrears, subletting, and the termination of tenancies, and what remedies are available to parties in case of violations?"
+,"What measures are in place within 'The Maharashtra Rent Control Act, 1999,' to ensure compliance with its provisions, including provisions for inspections, penalties for non-compliance, and mechanisms for dispute resolution?"
+        ],
+        "responses":[
+                "Section 3: Definitions."
+     ,"Section 4: Exemptions from operation of the Act."
+     ,"Section 5: Fixation of standard rent."
+
+              
+                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Goa, Daman and Diu Agricultural Tenancy Act, 1964",
+        "patterns":[
+                "What are the main objectives of 'The Goa, Daman and Diu Agricultural Tenancy Act, 1964,' and how does it regulate agricultural tenancy arrangements in the respective regions?"
+,"Under 'The Goa, Daman and Diu Agricultural Tenancy Act, 1964,' what rights and responsibilities are conferred upon landlords and tenants engaged in agricultural activities, and how are disputes between them resolved?"
+,"Can you explain the provisions outlined in 'The Goa, Daman and Diu Agricultural Tenancy Act, 1964,' regarding the fixation of fair rents, lease agreements, and the transfer of tenancy rights?"
+,"How does 'The Goa, Daman and Diu Agricultural Tenancy Act, 1964,' address issues related to the eviction of tenants, land use restrictions, and the protection of agricultural land from unauthorized encroachments or conversions?"
+,"What mechanisms are established within 'The Goa, Daman and Diu Agricultural Tenancy Act, 1964,' to promote agricultural productivity, land conservation, and the welfare of tenant farmers, and how are these implemented by local authorities?"
+        ],
+        "responses":[
+                "Section 5: Tenant's right to use or dispose of his holding."
+                ,"Section 6: Rights and liabilities of landlord."
+                 ,"Section 7: Non-transferability of tenant's interest."             
+                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Tamil Nadu Forest Act, 1882",
+        "patterns":[
+                "What are the primary objectives of 'The Tamil Nadu Forest Act, 1882,' and how does it govern the management and conservation of forest resources in the state?"
+,"Under 'The Tamil Nadu Forest Act, 1882,' what are the key provisions related to the protection of forest land, flora, and fauna, and how are these enforced by forest authorities?"
+,"Can you explain the mechanisms outlined in 'The Tamil Nadu Forest Act, 1882,' for regulating activities such as timber extraction, grazing, and cultivation within forest areas, and what permits or licenses are required for such activities?"
+,"How does 'The Tamil Nadu Forest Act, 1882,' address issues of encroachment, poaching, and illegal logging, and what penalties or sanctions are imposed for violations of forest laws?"
+,"What measures are in place within 'The Tamil Nadu Forest Act, 1882,' to promote sustainable forest management, biodiversity conservation, and community participation in forest-related activities, and how are these initiatives supported by government agencies?"
+        ],
+        "responses":[
+                "Section 3: Declaration of reserved forests."
+                ,"Section 4: Rights of Government in reserved forests."
+                             
+                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Madhya Pradesh Land Revenue Code, 1959",
+        "patterns":[
+                "What are the key provisions of 'The Madhya Pradesh Land Revenue Code, 1959,' and how does it regulate land revenue administration and management in the state?"
+,"Under 'The Madhya Pradesh Land Revenue Code, 1959,' what mechanisms are in place for the assessment, collection, and revision of land revenue, and how are these processes administered by revenue authorities?"
+,"Can you elucidate the rights and obligations of landholders and tenants as outlined in 'The Madhya Pradesh Land Revenue Code, 1959,' including provisions for land ownership, cultivation, and transfer?"
+,"How does 'The Madhya Pradesh Land Revenue Code, 1959,' address issues related to land records, surveys, and mutations, and what measures are taken to ensure the accuracy and integrity of land-related data?"
+,"What provisions are included in 'The Madhya Pradesh Land Revenue Code, 1959,' to protect the interests of marginalized communities, promote land reforms, and mitigate disputes over land ownership and tenancy rights?"
+        ],
+        "responses":[
+                "Section 3: Definitions."
+                ,"Section 4: Constitution of the State."                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Registration (Maharashtra Amendment) Act, 2001",
+        "patterns":[
+                "What were the amendments introduced by 'The Registration (Maharashtra Amendment) Act, 2001,' and how did they modify the registration process in Maharashtra?"
+                ,"Under 'The Registration (Maharashtra Amendment) Act, 2001,' what specific changes were made to registration fees, stamp duty rates, and registration procedures, and how did these changes impact property transactions?"
+                ,"Can you explain the rationale behind the amendments made by 'The Registration (Maharashtra Amendment) Act, 2001,' and how were these amendments aligned with the broader objectives of land registration and revenue generation?"
+                ,"How did stakeholders such as property owners, developers, and government agencies respond to the amendments introduced by 'The Registration (Maharashtra Amendment) Act, 2001,' and what were the implications for the real estate sector in Maharashtra?"
+                ,"What measures were taken to ensure the effective implementation and enforcement of the amendments brought about by 'The Registration (Maharashtra Amendment) Act, 2001,' including provisions for compliance monitoring and grievance redressal?"        
+        ],
+        "responses":[
+                "Section 4: Amendments to the Registration Act, 1908."                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Forest (Conservation) Act, 1980",
+        "patterns":[
+                "What is the purpose of 'The Forest (Conservation) Act, 1980,' and how does it regulate the diversion of forest land for non-forest purposes in India?"
+                ,"Under 'The Forest (Conservation) Act, 1980,' what are the procedures and criteria for seeking prior approval from the central government for the diversion of forest land, and what factors are considered during the decision-making process?"
+                ,"Can you elucidate the role of 'The Forest (Conservation) Act, 1980,' in promoting the sustainable management and conservation of forest resources, including provisions for afforestation and compensatory afforestation?"
+                ,"How does 'The Forest (Conservation) Act, 1980,' address issues such as encroachment, illegal logging, and deforestation, and what enforcement mechanisms are in place to prevent unauthorized activities in forest areas?"
+                ,"What measures are taken by authorities to monitor compliance with 'The Forest (Conservation) Act, 1980,' and what penalties or sanctions are imposed for violations of its provisions?"       
+        ],
+        "responses":[
+                "Section 2: Definitions."
+    ," Section 3: Restrictions on the dereservation of forests or use of forest land for non-forest purpose."
+                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Karnataka Land Reforms Act, 1961",
+        "patterns":[
+                "What are the key objectives of 'The Karnataka Land Reforms Act, 1961,' and how does it aim to regulate land ownership, tenancy, and agricultural practices in Karnataka?"
+                ,"Under 'The Karnataka Land Reforms Act, 1961,' what provisions are in place regarding land ceilings, land distribution to landless farmers, and the consolidation of fragmented landholdings?"
+                ,"Can you explain the mechanisms outlined in 'The Karnataka Land Reforms Act, 1961,' for the acquisition and redistribution of surplus land, and how are the rights of landowners and tenants protected during this process?"
+                ,"How does 'The Karnataka Land Reforms Act, 1961,' address issues such as land revenue, land use conversion, and the protection of agricultural land from non-agricultural activities?"
+                ,"What measures are implemented under 'The Karnataka Land Reforms Act, 1961,' to promote social justice, equitable distribution of land resources, and the welfare of rural communities in Karnataka?"          
+        ],
+        "responses":[
+                "Section 2: Definitions."
+                 ,"Section 3: Tenancy to be governed by the Act."
+                 ,"Section 4: Ceiling on land."
+             
+                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972",
+        "patterns":[
+                "What are the primary objectives of 'The U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972,' and how does it govern the rental housing market in Uttar Pradesh?"
+                ,"Under 'The U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972,' what are the rights and responsibilities of landlords and tenants regarding rent fixation, eviction procedures, and maintenance of rented properties?"
+                ,"Can you explain the provisions outlined in 'The U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972,' for the regulation of rent levels, including mechanisms for rent control, revision, and arbitration of disputes?"
+                ,"How does 'The U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972,' address issues such as unauthorized occupation, subletting, and non-payment of rent, and what remedies are available to landlords and tenants in such cases?"
+                ,"What measures are in place within 'The U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972,' to ensure fair and equitable treatment of both landlords and tenants, and how are these enforced by housing authorities in Uttar Pradesh?"        
+        ],
+        "responses":[
+                "Section 3: Definitions."
+                 ,"Section 4: Exemption of buildings and tenants from the Act."
+             
+             
+                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Haryana Urban (Control of Rent and Eviction) Act, 1973",
+        "patterns":[
+                "What are the key provisions of 'The Haryana Urban (Control of Rent and Eviction) Act, 1973,' and how does it regulate the rental housing market in Haryana?"
+,"Under 'The Haryana Urban (Control of Rent and Eviction) Act, 1973,' what mechanisms are in place for the determination of fair rent, eviction procedures, and resolution of disputes between landlords and tenants?"
+,"Can you elucidate the criteria and procedures outlined in 'The Haryana Urban (Control of Rent and Eviction) Act, 1973,' for the fixation of rent levels and the regulation of rent increases?"
+,"How does 'The Haryana Urban (Control of Rent and Eviction) Act, 1973,' address issues such as unauthorized occupation, subletting, and non-payment of rent, and what measures are taken to enforce compliance with its provisions?"
+,"What safeguards are provided to landlords and tenants under 'The Haryana Urban (Control of Rent and Eviction) Act, 1973,' to ensure their rights are protected, and how are these safeguards implemented by the housing authorities in Haryana?"       
+        ],
+        "responses":[
+                 "Section 3: Definitions."
+                 ,"Section 4: Exemptions from the operation of the Act."                                                                                                                                        
+        ]                               
+},
+{
+        "tag": "The Orissa Land Reforms Act, 1960",
+        "patterns":[
+                "What are the primary objectives of 'The Orissa Land Reforms Act, 1960,' and how does it aim to reform land ownership, tenancy, and agricultural practices in the state?"
+                ,"Under 'The Orissa Land Reforms Act, 1960,' what provisions are in place regarding land ceilings, land distribution to landless farmers, and the consolidation of fragmented landholdings?"
+                ,"Can you explain the mechanisms outlined in 'The Orissa Land Reforms Act, 1960,' for the acquisition and redistribution of surplus land, and how are the rights of landowners and tenants protected during this process?"
+                ,"How does 'The Orissa Land Reforms Act, 1960,' address issues such as land revenue, land use conversion, and the protection of agricultural land from non-agricultural activities?"
+                ,"What measures are implemented under 'The Orissa Land Reforms Act, 1960,' to promote social justice, equitable distribution of land resources, and the welfare of rural communities in Odisha?"              
+        ],
+        "responses":[
+                "Section 3: Definitions."
+                 ,"Section 4: Act to apply to all lands."
+                                                                                                                                                  
+        ]                               
+},
+{
+        "tag": "The Delhi Land Reforms Act, 1954",
+        "patterns":[
+                "What were the key provisions introduced by 'The Delhi Land Reforms Act, 1954,' and how did it aim to regulate land ownership, tenancy, and agricultural practices in Delhi?"
+               , "Under 'The Delhi Land Reforms Act, 1954,' what measures were implemented regarding land ceilings, land distribution, and consolidation of fragmented landholdings?"
+               , "Can you elaborate on the procedures outlined in 'The Delhi Land Reforms Act, 1954,' for the acquisition and redistribution of surplus land, and how were the rights of landowners and tenants safeguarded during this process?"
+               , "How did 'The Delhi Land Reforms Act, 1954,' address issues such as land revenue, land use conversion, and the protection of agricultural land from non-agricultural activities within the territory of Delhi?"
+               , "What initiatives were taken under 'The Delhi Land Reforms Act, 1954,' to promote social welfare, equitable distribution of land resources, and the overall development of the rural areas in Delhi?"             
+        ],
+        "responses":[
+                "Section 3: Definitions."
+     ,"Section 4: Act to apply to all lands."
+
+                                                                                                                                                  
+        ]                               
+},
+{
+        "tag": "The Himachal Pradesh Tenancy and Land Reforms Act, 1972",
+        "patterns":[
+                "What were the primary objectives behind enacting 'The Himachal Pradesh Tenancy and Land Reforms Act, 1972,' and how did it aim to reform land tenure and agricultural practices in Himachal Pradesh?"
+                ,"Under 'The Himachal Pradesh Tenancy and Land Reforms Act, 1972,' what provisions were introduced regarding tenancy rights, land ceilings, and consolidation of land holdings?"
+                ,"Can you elucidate the procedures outlined in 'The Himachal Pradesh Tenancy and Land Reforms Act, 1972,' for the acquisition and redistribution of surplus land, and how were the interests of both landowners and tenants addressed during this process?"
+                ,"How did 'The Himachal Pradesh Tenancy and Land Reforms Act, 1972,' address issues related to land revenue, land use conversion, and the protection of agricultural land from non-agricultural activities within the state?"
+                ,"What measures were implemented under 'The Himachal Pradesh Tenancy and Land Reforms Act, 1972,' to ensure social justice, equitable distribution of land resources, and the overall welfare of rural communities in Himachal Pradesh?"      
+        ],
+        "responses":[
+                 "Section 3: Definitions."
+                 ,"Section 4: Act to override other laws."
+            
+
+                                                                                                                                                  
+        ]                               
+},
+{
+        "tag": "The Andhra Pradesh Agricultural Land (Conversion for Non-Agricultural Purposes) Act, 2006",
+        "patterns":[
+                "What were the primary objectives of enacting 'The Andhra Pradesh Agricultural Land (Conversion for Non-Agricultural Purposes) Act, 2006,' and how does it regulate the conversion of agricultural land for non-agricultural purposes in Andhra Pradesh?"
+,"Under 'The Andhra Pradesh Agricultural Land (Conversion for Non-Agricultural Purposes) Act, 2006,' what procedures and criteria were established for obtaining permission to convert agricultural land for non-agricultural uses?"
+,"Can you elaborate on the safeguards and restrictions outlined in 'The Andhra Pradesh Agricultural Land (Conversion for Non-Agricultural Purposes) Act, 2006,' to prevent indiscriminate conversion of agricultural land and ensure its sustainable utilization?"
+,"How does 'The Andhra Pradesh Agricultural Land (Conversion for Non-Agricultural Purposes) Act, 2006,' address issues such as land use planning, environmental conservation, and equitable distribution of land resources?"
+,"What measures were implemented under 'The Andhra Pradesh Agricultural Land (Conversion for Non-Agricultural Purposes) Act, 2006,' to balance the needs of urban development with the preservation of agricultural land and rural livelihoods?"     
+        ],
+        "responses":[
+               "Section 3: Prohibition of conversion of agricultural land for non-agricultural purposes."
+                ,"Section 4: Conditions for conversion of agricultural land for non-agricultural purposes"
+            
+
+                                                                                                                                                  
+        ]  
+                                     
+}
+]  
+}

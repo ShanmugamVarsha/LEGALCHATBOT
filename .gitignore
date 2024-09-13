@@ -1,0 +1,8 @@
+.tar
+.ph
+.pth
+*.tar
+*.ph
+*.pth
+__pycache__
+*.json
